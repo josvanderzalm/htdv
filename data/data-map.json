@@ -1,0 +1,1734 @@
+{
+  "help": "https://data.rivm.nl/opendata/api/3/action/help_show?name=datastore_search",
+  "success": true,
+  "result": {
+    "fields": [
+      { "id": "Region_code", "type": "text" },
+      { "id": "Region_name", "type": "text" },
+      { "id": "Incidence_population_10000", "type": "numeric" }
+    ],
+    "include_total": true,
+    "limit": 32000,
+    "records_format": "objects",
+    "resource_id": "3d639361-b157-42d7-b135-41af5a22a8e3",
+    "total_estimation_threshold": null,
+    "records": [
+      {
+        "Region_code": "GM0034",
+        "Region_name": "Almere",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0047",
+        "Region_name": "Veendam",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0059",
+        "Region_name": "Achtkarspelen",
+        "Incidence_population_10000": 0.7
+      },
+      {
+        "Region_code": "GM0072",
+        "Region_name": "Harlingen",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0106",
+        "Region_name": "Assen",
+        "Incidence_population_10000": 0.1
+      },
+      {
+        "Region_code": "GM0080",
+        "Region_name": "Leeuwarden",
+        "Incidence_population_10000": 0.3
+      },
+      {
+        "Region_code": "GM0085",
+        "Region_name": "Ooststellingwerf",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0088",
+        "Region_name": "Schiermonnikoog",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0184",
+        "Region_name": "Urk",
+        "Incidence_population_10000": 0.5
+      },
+      {
+        "Region_code": "GM0090",
+        "Region_name": "Smallingerland",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0109",
+        "Region_name": "Coevorden",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0096",
+        "Region_name": "Vlieland",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0098",
+        "Region_name": "Weststellingwerf",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0118",
+        "Region_name": "Hoogeveen",
+        "Incidence_population_10000": 0.4
+      },
+      {
+        "Region_code": "GM0119",
+        "Region_name": "Meppel",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0147",
+        "Region_name": "Borne",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0150",
+        "Region_name": "Deventer",
+        "Incidence_population_10000": 0.1
+      },
+      {
+        "Region_code": "GM0197",
+        "Region_name": "Aalten",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0153",
+        "Region_name": "Enschede",
+        "Incidence_population_10000": 0.1
+      },
+      {
+        "Region_code": "GM0158",
+        "Region_name": "Haaksbergen",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0163",
+        "Region_name": "Hellendoorn",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0164",
+        "Region_name": "Hengelo",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0168",
+        "Region_name": "Losser",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0173",
+        "Region_name": "Oldenzaal",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0177",
+        "Region_name": "Raalte",
+        "Incidence_population_10000": 0.3
+      },
+      {
+        "Region_code": "GM0180",
+        "Region_name": "Staphorst",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0203",
+        "Region_name": "Barneveld",
+        "Incidence_population_10000": 0.3
+      },
+      {
+        "Region_code": "GM0209",
+        "Region_name": "Beuningen",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0216",
+        "Region_name": "Culemborg",
+        "Incidence_population_10000": 0.7
+      },
+      {
+        "Region_code": "GM0222",
+        "Region_name": "Doetinchem",
+        "Incidence_population_10000": 0.2
+      },
+      {
+        "Region_code": "GM0226",
+        "Region_name": "Duiven",
+        "Incidence_population_10000": 0.4
+      },
+      {
+        "Region_code": "GM0230",
+        "Region_name": "Elburg",
+        "Incidence_population_10000": 0.4
+      },
+      {
+        "Region_code": "GM0340",
+        "Region_name": "Rhenen",
+        "Incidence_population_10000": 0.5
+      },
+      {
+        "Region_code": "GM0233",
+        "Region_name": "Ermelo",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0243",
+        "Region_name": "Harderwijk",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0244",
+        "Region_name": "Hattem",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0579",
+        "Region_name": "Oegstgeest",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0252",
+        "Region_name": "Heumen",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0273",
+        "Region_name": "Putten",
+        "Incidence_population_10000": 0.4
+      },
+      {
+        "Region_code": "GM0267",
+        "Region_name": "Nijkerk",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0269",
+        "Region_name": "Oldebroek",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0277",
+        "Region_name": "Rozendaal",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0279",
+        "Region_name": "Scherpenzeel",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0542",
+        "Region_name": "Krimpen aan den IJssel",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0285",
+        "Region_name": "Voorst",
+        "Incidence_population_10000": 0.4
+      },
+      {
+        "Region_code": "GM0289",
+        "Region_name": "Wageningen",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0296",
+        "Region_name": "Wijchen",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0317",
+        "Region_name": "Eemnes",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0301",
+        "Region_name": "Zutphen",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0351",
+        "Region_name": "Woudenberg",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0303",
+        "Region_name": "Dronten",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0308",
+        "Region_name": "Baarn",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0312",
+        "Region_name": "Bunnik",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0313",
+        "Region_name": "Bunschoten",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0327",
+        "Region_name": "Leusden",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0331",
+        "Region_name": "Lopik",
+        "Incidence_population_10000": 0.7
+      },
+      {
+        "Region_code": "GM0335",
+        "Region_name": "Montfoort",
+        "Incidence_population_10000": 0.7
+      },
+      {
+        "Region_code": "GM0339",
+        "Region_name": "Renswoude",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0344",
+        "Region_name": "Utrecht",
+        "Incidence_population_10000": 0.2
+      },
+      {
+        "Region_code": "GM0345",
+        "Region_name": "Veenendaal",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0352",
+        "Region_name": "Wijk bij Duurstede",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0355",
+        "Region_name": "Zeist",
+        "Incidence_population_10000": 0.2
+      },
+      {
+        "Region_code": "GM0356",
+        "Region_name": "Nieuwegein",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0358",
+        "Region_name": "Aalsmeer",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0384",
+        "Region_name": "Diemen",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0362",
+        "Region_name": "Amstelveen",
+        "Incidence_population_10000": 0.2
+      },
+      {
+        "Region_code": "GM0431",
+        "Region_name": "Oostzaan",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0375",
+        "Region_name": "Beverwijk",
+        "Incidence_population_10000": 0.2
+      },
+      {
+        "Region_code": "GM0377",
+        "Region_name": "Bloemendaal",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0383",
+        "Region_name": "Castricum",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0388",
+        "Region_name": "Enkhuizen",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0394",
+        "Region_name": "Haarlemmermeer",
+        "Incidence_population_10000": 0.1
+      },
+      {
+        "Region_code": "GM0397",
+        "Region_name": "Heemstede",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0400",
+        "Region_name": "Den Helder",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0402",
+        "Region_name": "Hilversum",
+        "Incidence_population_10000": 0.2
+      },
+      {
+        "Region_code": "GM0406",
+        "Region_name": "Huizen",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0415",
+        "Region_name": "Landsmeer",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0417",
+        "Region_name": "Laren",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0437",
+        "Region_name": "Ouder-Amstel",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0441",
+        "Region_name": "Schagen",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0537",
+        "Region_name": "Katwijk",
+        "Incidence_population_10000": 0.3
+      },
+      {
+        "Region_code": "GM0450",
+        "Region_name": "Uitgeest",
+        "Incidence_population_10000": 0.7
+      },
+      {
+        "Region_code": "GM0451",
+        "Region_name": "Uithoorn",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0453",
+        "Region_name": "Velsen",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0482",
+        "Region_name": "Alblasserdam",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0489",
+        "Region_name": "Barendrecht",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0498",
+        "Region_name": "Drechterland",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0503",
+        "Region_name": "Delft",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0512",
+        "Region_name": "Gorinchem",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0513",
+        "Region_name": "Gouda",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0523",
+        "Region_name": "Hardinxveld-Giessendam",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0531",
+        "Region_name": "Hendrik-Ido-Ambacht",
+        "Incidence_population_10000": 0.3
+      },
+      {
+        "Region_code": "GM0532",
+        "Region_name": "Stede Broec",
+        "Incidence_population_10000": 0.5
+      },
+      {
+        "Region_code": "GM0534",
+        "Region_name": "Hillegom",
+        "Incidence_population_10000": 0.4
+      },
+      {
+        "Region_code": "GM0547",
+        "Region_name": "Leiderdorp",
+        "Incidence_population_10000": 0.4
+      },
+      {
+        "Region_code": "GM0556",
+        "Region_name": "Maassluis",
+        "Incidence_population_10000": 0.3
+      },
+      {
+        "Region_code": "GM0569",
+        "Region_name": "Nieuwkoop",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0575",
+        "Region_name": "Noordwijk",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0590",
+        "Region_name": "Papendrecht",
+        "Incidence_population_10000": 0.3
+      },
+      {
+        "Region_code": "GM0597",
+        "Region_name": "Ridderkerk",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0613",
+        "Region_name": "Albrandswaard",
+        "Incidence_population_10000": 0.4
+      },
+      {
+        "Region_code": "GM0622",
+        "Region_name": "Vlaardingen",
+        "Incidence_population_10000": 0.3
+      },
+      {
+        "Region_code": "GM0626",
+        "Region_name": "Voorschoten",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0603",
+        "Region_name": "Rijswijk",
+        "Incidence_population_10000": 0.5
+      },
+      {
+        "Region_code": "GM0606",
+        "Region_name": "Schiedam",
+        "Incidence_population_10000": 0.4
+      },
+      {
+        "Region_code": "GM0610",
+        "Region_name": "Sliedrecht",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0629",
+        "Region_name": "Wassenaar",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0632",
+        "Region_name": "Woerden",
+        "Incidence_population_10000": 0.2
+      },
+      {
+        "Region_code": "GM0637",
+        "Region_name": "Zoetermeer",
+        "Incidence_population_10000": 0.3
+      },
+      {
+        "Region_code": "GM0638",
+        "Region_name": "Zoeterwoude",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0642",
+        "Region_name": "Zwijndrecht",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0668",
+        "Region_name": "West Maas en Waal",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0687",
+        "Region_name": "Middelburg",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0473",
+        "Region_name": "Zandvoort",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0703",
+        "Region_name": "Reimerswaal",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0717",
+        "Region_name": "Veere",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0718",
+        "Region_name": "Vlissingen",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0743",
+        "Region_name": "Asten",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0748",
+        "Region_name": "Bergen op Zoom",
+        "Incidence_population_10000": 0.1
+      },
+      {
+        "Region_code": "GM0755",
+        "Region_name": "Boekel",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0758",
+        "Region_name": "Breda",
+        "Incidence_population_10000": 0.1
+      },
+      {
+        "Region_code": "GM0765",
+        "Region_name": "Pekela",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0766",
+        "Region_name": "Dongen",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0770",
+        "Region_name": "Eersel",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0847",
+        "Region_name": "Someren",
+        "Incidence_population_10000": 0.5
+      },
+      {
+        "Region_code": "GM0779",
+        "Region_name": "Geertruidenberg",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0784",
+        "Region_name": "Gilze en Rijen",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0785",
+        "Region_name": "Goirle",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0794",
+        "Region_name": "Helmond",
+        "Incidence_population_10000": 0.3
+      },
+      {
+        "Region_code": "GM0797",
+        "Region_name": "Heusden",
+        "Incidence_population_10000": 0.4
+      },
+      {
+        "Region_code": "GM0798",
+        "Region_name": "Hilvarenbeek",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0809",
+        "Region_name": "Loon op Zand",
+        "Incidence_population_10000": 0.4
+      },
+      {
+        "Region_code": "GM0855",
+        "Region_name": "Tilburg",
+        "Incidence_population_10000": 0.1
+      },
+      {
+        "Region_code": "GM0823",
+        "Region_name": "Oirschot",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0826",
+        "Region_name": "Oosterhout",
+        "Incidence_population_10000": 0.2
+      },
+      {
+        "Region_code": "GM0840",
+        "Region_name": "Rucphen",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0852",
+        "Region_name": "Waterland",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0858",
+        "Region_name": "Valkenswaard",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0866",
+        "Region_name": "Waalre",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0873",
+        "Region_name": "Woensdrecht",
+        "Incidence_population_10000": 0.9
+      },
+      {
+        "Region_code": "GM0880",
+        "Region_name": "Wormerland",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0888",
+        "Region_name": "Beek",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0889",
+        "Region_name": "Beesel",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0899",
+        "Region_name": "Brunssum",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0917",
+        "Region_name": "Heerlen",
+        "Incidence_population_10000": 0.1
+      },
+      {
+        "Region_code": "GM0928",
+        "Region_name": "Kerkrade",
+        "Incidence_population_10000": 0.2
+      },
+      {
+        "Region_code": "GM0938",
+        "Region_name": "Meerssen",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0994",
+        "Region_name": "Valkenburg aan de Geul",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0944",
+        "Region_name": "Mook en Middelaar",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0957",
+        "Region_name": "Roermond",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0965",
+        "Region_name": "Simpelveld",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0981",
+        "Region_name": "Vaals",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0986",
+        "Region_name": "Voerendaal",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM1674",
+        "Region_name": "Roosendaal",
+        "Incidence_population_10000": 0.8
+      },
+      {
+        "Region_code": "GM1507",
+        "Region_name": "Horst aan de Maas",
+        "Incidence_population_10000": 0.7
+      },
+      {
+        "Region_code": "GM1509",
+        "Region_name": "Oude IJsselstreek",
+        "Incidence_population_10000": 0.5
+      },
+      {
+        "Region_code": "GM1525",
+        "Region_name": "Teylingen",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM1586",
+        "Region_name": "Oost Gelre",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM1621",
+        "Region_name": "Lansingerland",
+        "Incidence_population_10000": 0.8
+      },
+      {
+        "Region_code": "GM1641",
+        "Region_name": "Maasgouw",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM1655",
+        "Region_name": "Halderberge",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM1659",
+        "Region_name": "Laarbeek",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM1669",
+        "Region_name": "Roerdalen",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM1680",
+        "Region_name": "Aa en Hunze",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM1700",
+        "Region_name": "Twenterand",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM1696",
+        "Region_name": "Wijdemeren",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM1699",
+        "Region_name": "Noordenveld",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM1705",
+        "Region_name": "Lingewaard",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM1706",
+        "Region_name": "Cranendonck",
+        "Incidence_population_10000": 0.5
+      },
+      {
+        "Region_code": "GM1724",
+        "Region_name": "Bergeijk",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM1709",
+        "Region_name": "Moerdijk",
+        "Incidence_population_10000": 0.3
+      },
+      {
+        "Region_code": "GM1719",
+        "Region_name": "Drimmelen",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM1721",
+        "Region_name": "Bernheze",
+        "Incidence_population_10000": 0.6
+      },
+      {
+        "Region_code": "GM1723",
+        "Region_name": "Alphen-Chaam",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM1729",
+        "Region_name": "Gulpen-Wittem",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM1731",
+        "Region_name": "Midden-Drenthe",
+        "Incidence_population_10000": 1.5
+      },
+      {
+        "Region_code": "GM1735",
+        "Region_name": "Hof van Twente",
+        "Incidence_population_10000": 0.8
+      },
+      {
+        "Region_code": "GM1740",
+        "Region_name": "Neder-Betuwe",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM1742",
+        "Region_name": "Rijssen-Holten",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0310",
+        "Region_name": "De Bilt",
+        "Incidence_population_10000": 0.2
+      },
+      {
+        "Region_code": "GM1774",
+        "Region_name": "Dinkelland",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM1842",
+        "Region_name": "Midden-Delfland",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM1892",
+        "Region_name": "Zuidplas",
+        "Incidence_population_10000": 0.2
+      },
+      {
+        "Region_code": "GM1883",
+        "Region_name": "Sittard-Geleen",
+        "Incidence_population_10000": 0.3
+      },
+      {
+        "Region_code": "GM1884",
+        "Region_name": "Kaag en Braassem",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM1891",
+        "Region_name": "Dantumadiel",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM1895",
+        "Region_name": "Oldambt",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM1896",
+        "Region_name": "Zwartewaterland",
+        "Incidence_population_10000": 0.4
+      },
+      {
+        "Region_code": "GM1904",
+        "Region_name": "Stichtse Vecht",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM1901",
+        "Region_name": "Bodegraven-Reeuwijk",
+        "Incidence_population_10000": 0.3
+      },
+      {
+        "Region_code": "GM1916",
+        "Region_name": "Leidschendam-Voorburg",
+        "Incidence_population_10000": 0.3
+      },
+      {
+        "Region_code": "GM1930",
+        "Region_name": "Nissewaard",
+        "Incidence_population_10000": 0.1
+      },
+      {
+        "Region_code": "GM1948",
+        "Region_name": "Meierijstad",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0627",
+        "Region_name": "Waddinxveen",
+        "Incidence_population_10000": 0.3
+      },
+      {
+        "Region_code": "GM1942",
+        "Region_name": "Gooise Meren",
+        "Incidence_population_10000": 0.5
+      },
+      {
+        "Region_code": "GM0848",
+        "Region_name": "Son en Breugel",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM1950",
+        "Region_name": "Westerwolde",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM1952",
+        "Region_name": "Midden-Groningen",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM1955",
+        "Region_name": "Montferland",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM1961",
+        "Region_name": "Vijfheerenlanden",
+        "Incidence_population_10000": 0.2
+      },
+      {
+        "Region_code": "GM0757",
+        "Region_name": "Boxtel",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0014",
+        "Region_name": "Groningen",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM1970",
+        "Region_name": "Noardeast-Fryslân",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM1979",
+        "Region_name": "Eemsdelta",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM1991",
+        "Region_name": "Maashorst",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM1992",
+        "Region_name": "Voorne aan Zee",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0037",
+        "Region_name": "Stadskanaal",
+        "Incidence_population_10000": 0.3
+      },
+      {
+        "Region_code": "GM0050",
+        "Region_name": "Zeewolde",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0060",
+        "Region_name": "Ameland",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0189",
+        "Region_name": "Wierden",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0074",
+        "Region_name": "Heerenveen",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0148",
+        "Region_name": "Dalfsen",
+        "Incidence_population_10000": 0.3
+      },
+      {
+        "Region_code": "GM0086",
+        "Region_name": "Opsterland",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0093",
+        "Region_name": "Terschelling",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0114",
+        "Region_name": "Emmen",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0141",
+        "Region_name": "Almelo",
+        "Incidence_population_10000": 0.4
+      },
+      {
+        "Region_code": "GM0160",
+        "Region_name": "Hardenberg",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0166",
+        "Region_name": "Kampen",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0171",
+        "Region_name": "Noordoostpolder",
+        "Incidence_population_10000": 0.4
+      },
+      {
+        "Region_code": "GM0175",
+        "Region_name": "Ommen",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0183",
+        "Region_name": "Tubbergen",
+        "Incidence_population_10000": 0.5
+      },
+      {
+        "Region_code": "GM0193",
+        "Region_name": "Zwolle",
+        "Incidence_population_10000": 0.1
+      },
+      {
+        "Region_code": "GM0232",
+        "Region_name": "Epe",
+        "Incidence_population_10000": 0.3
+      },
+      {
+        "Region_code": "GM0200",
+        "Region_name": "Apeldoorn",
+        "Incidence_population_10000": 0.1
+      },
+      {
+        "Region_code": "GM0202",
+        "Region_name": "Arnhem",
+        "Incidence_population_10000": 0.4
+      },
+      {
+        "Region_code": "GM0213",
+        "Region_name": "Brummen",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0214",
+        "Region_name": "Buren",
+        "Incidence_population_10000": 0.4
+      },
+      {
+        "Region_code": "GM0221",
+        "Region_name": "Doesburg",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0225",
+        "Region_name": "Druten",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0228",
+        "Region_name": "Ede",
+        "Incidence_population_10000": 0.2
+      },
+      {
+        "Region_code": "GM0246",
+        "Region_name": "Heerde",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0307",
+        "Region_name": "Amersfoort",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0262",
+        "Region_name": "Lochem",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0321",
+        "Region_name": "Houten",
+        "Incidence_population_10000": 0.2
+      },
+      {
+        "Region_code": "GM0263",
+        "Region_name": "Maasdriel",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0268",
+        "Region_name": "Nijmegen",
+        "Incidence_population_10000": 0.3
+      },
+      {
+        "Region_code": "GM0274",
+        "Region_name": "Renkum",
+        "Incidence_population_10000": 0.3
+      },
+      {
+        "Region_code": "GM0342",
+        "Region_name": "Soest",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0275",
+        "Region_name": "Rheden",
+        "Incidence_population_10000": 0.5
+      },
+      {
+        "Region_code": "GM0281",
+        "Region_name": "Tiel",
+        "Incidence_population_10000": 0.2
+      },
+      {
+        "Region_code": "GM0293",
+        "Region_name": "Westervoort",
+        "Incidence_population_10000": 0.7
+      },
+      {
+        "Region_code": "GM0294",
+        "Region_name": "Winterswijk",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0297",
+        "Region_name": "Zaltbommel",
+        "Incidence_population_10000": 1.6
+      },
+      {
+        "Region_code": "GM0299",
+        "Region_name": "Zevenaar",
+        "Incidence_population_10000": 0.2
+      },
+      {
+        "Region_code": "GM0302",
+        "Region_name": "Nunspeet",
+        "Incidence_population_10000": 0.3
+      },
+      {
+        "Region_code": "GM0353",
+        "Region_name": "IJsselstein",
+        "Incidence_population_10000": 0.3
+      },
+      {
+        "Region_code": "GM0361",
+        "Region_name": "Alkmaar",
+        "Incidence_population_10000": 0.1
+      },
+      {
+        "Region_code": "GM0363",
+        "Region_name": "Amsterdam",
+        "Incidence_population_10000": 0.2
+      },
+      {
+        "Region_code": "GM0373",
+        "Region_name": "Bergen (NH.)",
+        "Incidence_population_10000": 0.3
+      },
+      {
+        "Region_code": "GM0376",
+        "Region_name": "Blaricum",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0385",
+        "Region_name": "Edam-Volendam",
+        "Incidence_population_10000": 0.3
+      },
+      {
+        "Region_code": "GM0392",
+        "Region_name": "Haarlem",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0396",
+        "Region_name": "Heemskerk",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0546",
+        "Region_name": "Leiden",
+        "Incidence_population_10000": 0.1
+      },
+      {
+        "Region_code": "GM0399",
+        "Region_name": "Heiloo",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0405",
+        "Region_name": "Hoorn",
+        "Incidence_population_10000": 0.4
+      },
+      {
+        "Region_code": "GM0820",
+        "Region_name": "Nuenen, Gerwen en Nederwetten",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0420",
+        "Region_name": "Medemblik",
+        "Incidence_population_10000": 0.2
+      },
+      {
+        "Region_code": "GM0553",
+        "Region_name": "Lisse",
+        "Incidence_population_10000": 0.4
+      },
+      {
+        "Region_code": "GM0432",
+        "Region_name": "Opmeer",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0439",
+        "Region_name": "Purmerend",
+        "Incidence_population_10000": 0.2
+      },
+      {
+        "Region_code": "GM0448",
+        "Region_name": "Texel",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0479",
+        "Region_name": "Zaanstad",
+        "Incidence_population_10000": 0.2
+      },
+      {
+        "Region_code": "GM0484",
+        "Region_name": "Alphen aan den Rijn",
+        "Incidence_population_10000": 0.3
+      },
+      {
+        "Region_code": "GM0502",
+        "Region_name": "Capelle aan den IJssel",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0505",
+        "Region_name": "Dordrecht",
+        "Incidence_population_10000": 0.2
+      },
+      {
+        "Region_code": "GM0518",
+        "Region_name": "'s-Gravenhage",
+        "Incidence_population_10000": 0.2
+      },
+      {
+        "Region_code": "GM0589",
+        "Region_name": "Oudewater",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0664",
+        "Region_name": "Goes",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0599",
+        "Region_name": "Rotterdam",
+        "Incidence_population_10000": 0.1
+      },
+      {
+        "Region_code": "GM0654",
+        "Region_name": "Borsele",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0677",
+        "Region_name": "Hulst",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0678",
+        "Region_name": "Kapelle",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0715",
+        "Region_name": "Terneuzen",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0744",
+        "Region_name": "Baarle-Nassau",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0716",
+        "Region_name": "Tholen",
+        "Incidence_population_10000": 0.4
+      },
+      {
+        "Region_code": "GM0736",
+        "Region_name": "De Ronde Venen",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0777",
+        "Region_name": "Etten-Leur",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0737",
+        "Region_name": "Tytsjerksteradiel",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0753",
+        "Region_name": "Best",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0762",
+        "Region_name": "Deurne",
+        "Incidence_population_10000": 0.3
+      },
+      {
+        "Region_code": "GM0772",
+        "Region_name": "Eindhoven",
+        "Incidence_population_10000": 0.1
+      },
+      {
+        "Region_code": "GM0796",
+        "Region_name": "'s-Hertogenbosch",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0824",
+        "Region_name": "Oisterwijk",
+        "Incidence_population_10000": 0.3
+      },
+      {
+        "Region_code": "GM0828",
+        "Region_name": "Oss",
+        "Incidence_population_10000": 0.3
+      },
+      {
+        "Region_code": "GM0845",
+        "Region_name": "Sint-Michielsgestel",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0851",
+        "Region_name": "Steenbergen",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0861",
+        "Region_name": "Veldhoven",
+        "Incidence_population_10000": 0.4
+      },
+      {
+        "Region_code": "GM0865",
+        "Region_name": "Vught",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0867",
+        "Region_name": "Waalwijk",
+        "Incidence_population_10000": 0.2
+      },
+      {
+        "Region_code": "GM0879",
+        "Region_name": "Zundert",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0882",
+        "Region_name": "Landgraaf",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0893",
+        "Region_name": "Bergen (L.)",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0907",
+        "Region_name": "Gennep",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0935",
+        "Region_name": "Maastricht",
+        "Incidence_population_10000": 0.2
+      },
+      {
+        "Region_code": "GM0946",
+        "Region_name": "Nederweert",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0971",
+        "Region_name": "Stein",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0983",
+        "Region_name": "Venlo",
+        "Incidence_population_10000": 0.2
+      },
+      {
+        "Region_code": "GM0984",
+        "Region_name": "Venray",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0988",
+        "Region_name": "Weert",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM1771",
+        "Region_name": "Geldrop-Mierlo",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM0995",
+        "Region_name": "Lelystad",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM1658",
+        "Region_name": "Heeze-Leende",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM1581",
+        "Region_name": "Utrechtse Heuvelrug",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM1598",
+        "Region_name": "Koggenland",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM1640",
+        "Region_name": "Leudal",
+        "Incidence_population_10000": 0.3
+      },
+      {
+        "Region_code": "GM1652",
+        "Region_name": "Gemert-Bakel",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM1667",
+        "Region_name": "Reusel-De Mierden",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM1676",
+        "Region_name": "Schouwen-Duiveland",
+        "Incidence_population_10000": 0.3
+      },
+      {
+        "Region_code": "GM1681",
+        "Region_name": "Borger-Odoorn",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM1690",
+        "Region_name": "De Wolden",
+        "Incidence_population_10000": 0.4
+      },
+      {
+        "Region_code": "GM1695",
+        "Region_name": "Noord-Beveland",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM1926",
+        "Region_name": "Pijnacker-Nootdorp",
+        "Incidence_population_10000": 0.2
+      },
+      {
+        "Region_code": "GM1701",
+        "Region_name": "Westerveld",
+        "Incidence_population_10000": 0.5
+      },
+      {
+        "Region_code": "GM1708",
+        "Region_name": "Steenwijkerland",
+        "Incidence_population_10000": 0.2
+      },
+      {
+        "Region_code": "GM1711",
+        "Region_name": "Echt-Susteren",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM1714",
+        "Region_name": "Sluis",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM1728",
+        "Region_name": "Bladel",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM1730",
+        "Region_name": "Tynaarlo",
+        "Incidence_population_10000": 0.3
+      },
+      {
+        "Region_code": "GM1734",
+        "Region_name": "Overbetuwe",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM1876",
+        "Region_name": "Bronckhorst",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM1773",
+        "Region_name": "Olst-Wijhe",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM1783",
+        "Region_name": "Westland",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM1859",
+        "Region_name": "Berkelland",
+        "Incidence_population_10000": 0.5
+      },
+      {
+        "Region_code": "GM1894",
+        "Region_name": "Peel en Maas",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM1900",
+        "Region_name": "Súdwest-Fryslân",
+        "Incidence_population_10000": 0.1
+      },
+      {
+        "Region_code": "GM1903",
+        "Region_name": "Eijsden-Margraten",
+        "Incidence_population_10000": 0.4
+      },
+      {
+        "Region_code": "GM1911",
+        "Region_name": "Hollands Kroon",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM1924",
+        "Region_name": "Goeree-Overflakkee",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM1931",
+        "Region_name": "Krimpenerwaard",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM1940",
+        "Region_name": "De Fryske Marren",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM1945",
+        "Region_name": "Berg en Dal",
+        "Incidence_population_10000": 0.6
+      },
+      {
+        "Region_code": "GM1949",
+        "Region_name": "Waadhoeke",
+        "Incidence_population_10000": 0.2
+      },
+      {
+        "Region_code": "GM1954",
+        "Region_name": "Beekdaelen",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM1959",
+        "Region_name": "Altena",
+        "Incidence_population_10000": 0.2
+      },
+      {
+        "Region_code": "GM1960",
+        "Region_name": "West Betuwe",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM1963",
+        "Region_name": "Hoeksche Waard",
+        "Incidence_population_10000": 0.2
+      },
+      {
+        "Region_code": "GM1966",
+        "Region_name": "Het Hogeland",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM1969",
+        "Region_name": "Westerkwartier",
+        "Incidence_population_10000": 0
+      },
+      {
+        "Region_code": "GM1978",
+        "Region_name": "Molenlanden",
+        "Incidence_population_10000": 0.7
+      },
+      {
+        "Region_code": "GM1980",
+        "Region_name": "Dijk en Waard",
+        "Incidence_population_10000": 0.3
+      },
+      {
+        "Region_code": "GM1982",
+        "Region_name": "Land van Cuijk",
+        "Incidence_population_10000": 0.3
+      }
+    ],
+    "_links": {
+      "start": "/api/action/datastore_search?resource_id=3d639361-b157-42d7-b135-41af5a22a8e3&fields=Region_code%2CRegion_name%2CIncidence_population_10000&limit=32000",
+      "next": "/api/action/datastore_search?resource_id=3d639361-b157-42d7-b135-41af5a22a8e3&fields=Region_code%2CRegion_name%2CIncidence_population_10000&limit=32000&offset=32000"
+    },
+    "total": 342,
+    "total_was_estimated": false
+  }
+}
