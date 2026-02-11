@@ -1,0 +1,31 @@
+{
+  "dataSrc": "http://127.0.0.1:3002/data/data-map-temp-juli.json",
+  "type": "map",
+  "title": {
+    "nl": "Temperatuur juli 2025"
+  },
+  "subtitle": {
+    "nl": "Per gemeente"
+  },
+  "legendTitle": {
+    "nl": "Teperatuur graden Celsius"
+  },
+  "source": {
+    "nl": ""
+  },
+  "colorScheme": "Reds",
+  "colorSchemeReverse": false,
+  "mapDataClassesCount": 4,
+  "mapDataClassesMethod": "jenks",
+  "mapDivisionCode": "gm",
+  "mapDivisionKey": "gemeente_code",
+  "mapDivisionYear": "2025",
+  "mapKey": "temp_jul_C",
+  "mapOutline": "pv",
+  "dictionary": {
+    "nl": {
+      "gemeente_code": "Code",
+      "temp_jul_C": "Meldingen per 10.000 inwoners"
+    }
+  }
+}

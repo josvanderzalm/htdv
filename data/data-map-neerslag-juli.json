@@ -1,0 +1,1392 @@
+{
+  "help": "https://data.rivm.nl/opendata/api/3/action/help_show?name=datastore_search",
+  "success": true,
+  "result": {
+    "fields": [
+      { "id": "Region_code", "type": "text" },
+      { "id": "Region_name", "type": "text" },
+      { "id": "Incidence_population_10000", "type": "numeric" }
+    ],
+    "include_total": true,
+    "limit": 32000,
+    "records_format": "objects",
+    "resource_id": "3d639361-b157-42d7-b135-41af5a22a8e3",
+    "total_estimation_threshold": null,
+    "records": [
+ {
+   "gemeente_code": "GM0263",
+   "neerslag_jul_mm": 262.21
+ },
+ {
+   "gemeente_code": "GM0441",
+   "neerslag_jul_mm": 239.63
+ },
+ {
+   "gemeente_code": "GM1903",
+   "neerslag_jul_mm": 254.12
+ },
+ {
+   "gemeente_code": "GM0193",
+   "neerslag_jul_mm": 286.54
+ },
+ {
+   "gemeente_code": "GM1711",
+   "neerslag_jul_mm": 285.44
+ },
+ {
+   "gemeente_code": "GM1621",
+   "neerslag_jul_mm": 260.91
+ },
+ {
+   "gemeente_code": "GM1659",
+   "neerslag_jul_mm": 239.7
+ },
+ {
+   "gemeente_code": "GM0766",
+   "neerslag_jul_mm": 281.62
+ },
+ {
+   "gemeente_code": "GM0668",
+   "neerslag_jul_mm": 256.75
+ },
+ {
+   "gemeente_code": "GM0848",
+   "neerslag_jul_mm": 235.47
+ },
+ {
+   "gemeente_code": "GM0484",
+   "neerslag_jul_mm": 267.97
+ },
+ {
+   "gemeente_code": "GM1978",
+   "neerslag_jul_mm": 282.62
+ },
+ {
+   "gemeente_code": "GM0626",
+   "neerslag_jul_mm": 261.19
+ },
+ {
+   "gemeente_code": "GM1876",
+   "neerslag_jul_mm": 257.43
+ },
+ {
+   "gemeente_code": "GM0106",
+   "neerslag_jul_mm": 260.13
+ },
+ {
+   "gemeente_code": "GM1991",
+   "neerslag_jul_mm": 235.7
+ },
+ {
+   "gemeente_code": "GM0537",
+   "neerslag_jul_mm": 254.06
+ },
+ {
+   "gemeente_code": "GM0383",
+   "neerslag_jul_mm": 232.18
+ },
+ {
+   "gemeente_code": "GM0479",
+   "neerslag_jul_mm": 236.58
+ },
+ {
+   "gemeente_code": "GM0109",
+   "neerslag_jul_mm": 273.48
+ },
+ {
+   "gemeente_code": "GM1895",
+   "neerslag_jul_mm": 236.78
+ },
+ {
+   "gemeente_code": "GM0301",
+   "neerslag_jul_mm": 250.38
+ },
+ {
+   "gemeente_code": "GM1966",
+   "neerslag_jul_mm": 234.28
+ },
+ {
+   "gemeente_code": "GM0189",
+   "neerslag_jul_mm": 276.4
+ },
+ {
+   "gemeente_code": "GM0275",
+   "neerslag_jul_mm": 256.17
+ },
+ {
+   "gemeente_code": "GM0158",
+   "neerslag_jul_mm": 258.71
+ },
+ {
+   "gemeente_code": "GM1586",
+   "neerslag_jul_mm": 262.8
+ },
+ {
+   "gemeente_code": "GM0345",
+   "neerslag_jul_mm": 257.13
+ },
+ {
+   "gemeente_code": "GM0546",
+   "neerslag_jul_mm": 253.41
+ },
+ {
+   "gemeente_code": "GM1658",
+   "neerslag_jul_mm": 256.63
+ },
+ {
+   "gemeente_code": "GM1774",
+   "neerslag_jul_mm": 284.98
+ },
+ {
+   "gemeente_code": "GM0703",
+   "neerslag_jul_mm": 275.79
+ },
+ {
+   "gemeente_code": "GM0758",
+   "neerslag_jul_mm": 266.26
+ },
+ {
+   "gemeente_code": "GM1721",
+   "neerslag_jul_mm": 237.93
+ },
+ {
+   "gemeente_code": "GM0375",
+   "neerslag_jul_mm": 235.32
+ },
+ {
+   "gemeente_code": "GM0296",
+   "neerslag_jul_mm": 237.19
+ },
+ {
+   "gemeente_code": "GM1948",
+   "neerslag_jul_mm": 245.59
+ },
+ {
+   "gemeente_code": "GM1783",
+   "neerslag_jul_mm": 258.62
+ },
+ {
+   "gemeente_code": "GM0160",
+   "neerslag_jul_mm": 274.84
+ },
+ {
+   "gemeente_code": "GM0289",
+   "neerslag_jul_mm": 258.57
+ },
+ {
+   "gemeente_code": "GM1940",
+   "neerslag_jul_mm": 255.71
+ },
+ {
+   "gemeente_code": "GM1883",
+   "neerslag_jul_mm": 281.63
+ },
+ {
+   "gemeente_code": "GM0299",
+   "neerslag_jul_mm": 239.74
+ },
+ {
+   "gemeente_code": "GM0351",
+   "neerslag_jul_mm": 288.62
+ },
+ {
+   "gemeente_code": "GM1676",
+   "neerslag_jul_mm": 262.02
+ },
+ {
+   "gemeente_code": "GM0765",
+   "neerslag_jul_mm": 250.07
+ },
+ {
+   "gemeente_code": "GM0377",
+   "neerslag_jul_mm": 246.95
+ },
+ {
+   "gemeente_code": "GM0356",
+   "neerslag_jul_mm": 276.94
+ },
+ {
+   "gemeente_code": "GM0889",
+   "neerslag_jul_mm": 280.24
+ },
+ {
+   "gemeente_code": "GM1674",
+   "neerslag_jul_mm": 289.25
+ },
+ {
+   "gemeente_code": "GM0273",
+   "neerslag_jul_mm": 277.18
+ },
+ {
+   "gemeente_code": "GM0183",
+   "neerslag_jul_mm": 283.01
+ },
+ {
+   "gemeente_code": "GM0216",
+   "neerslag_jul_mm": 285.82
+ },
+ {
+   "gemeente_code": "GM0072",
+   "neerslag_jul_mm": 234.64
+ },
+ {
+   "gemeente_code": "GM0579",
+   "neerslag_jul_mm": 254.92
+ },
+ {
+   "gemeente_code": "GM0770",
+   "neerslag_jul_mm": 258.52
+ },
+ {
+   "gemeente_code": "GM0453",
+   "neerslag_jul_mm": 231.22
+ },
+ {
+   "gemeente_code": "GM0498",
+   "neerslag_jul_mm": 254.98
+ },
+ {
+   "gemeente_code": "GM0074",
+   "neerslag_jul_mm": 261.71
+ },
+ {
+   "gemeente_code": "GM0431",
+   "neerslag_jul_mm": 230.79
+ },
+ {
+   "gemeente_code": "GM1730",
+   "neerslag_jul_mm": 260.53
+ },
+ {
+   "gemeente_code": "GM0228",
+   "neerslag_jul_mm": 264.68
+ },
+ {
+   "gemeente_code": "GM0285",
+   "neerslag_jul_mm": 253
+ },
+ {
+   "gemeente_code": "GM0175",
+   "neerslag_jul_mm": 282.42
+ },
+ {
+   "gemeente_code": "GM0096",
+   "neerslag_jul_mm": 248.26
+ },
+ {
+   "gemeente_code": "GM1942",
+   "neerslag_jul_mm": 251.12
+ },
+ {
+   "gemeente_code": "GM0166",
+   "neerslag_jul_mm": 275.9
+ },
+ {
+   "gemeente_code": "GM0225",
+   "neerslag_jul_mm": 255.36
+ },
+ {
+   "gemeente_code": "GM0262",
+   "neerslag_jul_mm": 263.91
+ },
+ {
+   "gemeente_code": "GM0313",
+   "neerslag_jul_mm": 286.46
+ },
+ {
+   "gemeente_code": "GM0988",
+   "neerslag_jul_mm": 286.94
+ },
+ {
+   "gemeente_code": "GM0597",
+   "neerslag_jul_mm": 283.19
+ },
+ {
+   "gemeente_code": "GM0642",
+   "neerslag_jul_mm": 276.69
+ },
+ {
+   "gemeente_code": "GM1945",
+   "neerslag_jul_mm": 249.98
+ },
+ {
+   "gemeente_code": "GM0230",
+   "neerslag_jul_mm": 285.7
+ },
+ {
+   "gemeente_code": "GM0213",
+   "neerslag_jul_mm": 268.98
+ },
+ {
+   "gemeente_code": "GM1507",
+   "neerslag_jul_mm": 275.67
+ },
+ {
+   "gemeente_code": "GM1667",
+   "neerslag_jul_mm": 233.74
+ },
+ {
+   "gemeente_code": "GM1724",
+   "neerslag_jul_mm": 250.76
+ },
+ {
+   "gemeente_code": "GM0034",
+   "neerslag_jul_mm": 256.25
+ },
+ {
+   "gemeente_code": "GM0307",
+   "neerslag_jul_mm": 282.3
+ },
+ {
+   "gemeente_code": "GM0828",
+   "neerslag_jul_mm": 244.69
+ },
+ {
+   "gemeente_code": "GM1842",
+   "neerslag_jul_mm": 269.12
+ },
+ {
+   "gemeente_code": "GM1931",
+   "neerslag_jul_mm": 285.38
+ },
+ {
+   "gemeente_code": "GM0717",
+   "neerslag_jul_mm": 254.48
+ },
+ {
+   "gemeente_code": "GM1680",
+   "neerslag_jul_mm": 253.54
+ },
+ {
+   "gemeente_code": "GM0437",
+   "neerslag_jul_mm": 259.54
+ },
+ {
+   "gemeente_code": "GM1896",
+   "neerslag_jul_mm": 278.47
+ },
+ {
+   "gemeente_code": "GM0221",
+   "neerslag_jul_mm": 269.21
+ },
+ {
+   "gemeente_code": "GM0037",
+   "neerslag_jul_mm": 268.94
+ },
+ {
+   "gemeente_code": "GM0523",
+   "neerslag_jul_mm": 282.1
+ },
+ {
+   "gemeente_code": "GM0762",
+   "neerslag_jul_mm": 286.14
+ },
+ {
+   "gemeente_code": "GM0888",
+   "neerslag_jul_mm": 255.53
+ },
+ {
+   "gemeente_code": "GM0715",
+   "neerslag_jul_mm": 274.22
+ },
+ {
+   "gemeente_code": "GM0502",
+   "neerslag_jul_mm": 275.41
+ },
+ {
+   "gemeente_code": "GM1950",
+   "neerslag_jul_mm": 261.89
+ },
+ {
+   "gemeente_code": "GM0737",
+   "neerslag_jul_mm": 246.63
+ },
+ {
+   "gemeente_code": "GM0363",
+   "neerslag_jul_mm": 234.14
+ },
+ {
+   "gemeente_code": "GM1926",
+   "neerslag_jul_mm": 256.11
+ },
+ {
+   "gemeente_code": "GM0268",
+   "neerslag_jul_mm": 230.9
+ },
+ {
+   "gemeente_code": "GM0331",
+   "neerslag_jul_mm": 270.64
+ },
+ {
+   "gemeente_code": "GM0610",
+   "neerslag_jul_mm": 276.47
+ },
+ {
+   "gemeente_code": "GM0986",
+   "neerslag_jul_mm": 251.09
+ },
+ {
+   "gemeente_code": "GM1924",
+   "neerslag_jul_mm": 257.05
+ },
+ {
+   "gemeente_code": "GM0534",
+   "neerslag_jul_mm": 263.29
+ },
+ {
+   "gemeente_code": "GM0632",
+   "neerslag_jul_mm": 271.36
+ },
+ {
+   "gemeente_code": "GM0944",
+   "neerslag_jul_mm": 242.02
+ },
+ {
+   "gemeente_code": "GM1706",
+   "neerslag_jul_mm": 259.25
+ },
+ {
+   "gemeente_code": "GM0232",
+   "neerslag_jul_mm": 276.77
+ },
+ {
+   "gemeente_code": "GM0335",
+   "neerslag_jul_mm": 287.13
+ },
+ {
+   "gemeente_code": "GM0473",
+   "neerslag_jul_mm": 250.31
+ },
+ {
+   "gemeente_code": "GM0879",
+   "neerslag_jul_mm": 251.21
+ },
+ {
+   "gemeente_code": "GM0344",
+   "neerslag_jul_mm": 287.49
+ },
+ {
+   "gemeente_code": "GM0388",
+   "neerslag_jul_mm": 241.75
+ },
+ {
+   "gemeente_code": "GM0310",
+   "neerslag_jul_mm": 271.45
+ },
+ {
+   "gemeente_code": "GM0531",
+   "neerslag_jul_mm": 286.41
+ },
+ {
+   "gemeente_code": "GM0153",
+   "neerslag_jul_mm": 259.76
+ },
+ {
+   "gemeente_code": "GM0716",
+   "neerslag_jul_mm": 282.25
+ },
+ {
+   "gemeente_code": "GM0168",
+   "neerslag_jul_mm": 275.75
+ },
+ {
+   "gemeente_code": "GM0246",
+   "neerslag_jul_mm": 288.44
+ },
+ {
+   "gemeente_code": "GM1641",
+   "neerslag_jul_mm": 273.88
+ },
+ {
+   "gemeente_code": "GM1911",
+   "neerslag_jul_mm": 232.88
+ },
+ {
+   "gemeente_code": "GM0317",
+   "neerslag_jul_mm": 276.06
+ },
+ {
+   "gemeente_code": "GM0627",
+   "neerslag_jul_mm": 257.19
+ },
+ {
+   "gemeente_code": "GM0267",
+   "neerslag_jul_mm": 280.98
+ },
+ {
+   "gemeente_code": "GM0744",
+   "neerslag_jul_mm": 249.02
+ },
+ {
+   "gemeente_code": "GM0358",
+   "neerslag_jul_mm": 251.63
+ },
+ {
+   "gemeente_code": "GM0308",
+   "neerslag_jul_mm": 276.9
+ },
+ {
+   "gemeente_code": "GM1930",
+   "neerslag_jul_mm": 285.06
+ },
+ {
+   "gemeente_code": "GM1901",
+   "neerslag_jul_mm": 273.1
+ },
+ {
+   "gemeente_code": "GM0569",
+   "neerslag_jul_mm": 262.55
+ },
+ {
+   "gemeente_code": "GM0148",
+   "neerslag_jul_mm": 286.3
+ },
+ {
+   "gemeente_code": "GM1728",
+   "neerslag_jul_mm": 231.64
+ },
+ {
+   "gemeente_code": "GM0882",
+   "neerslag_jul_mm": 255.61
+ },
+ {
+   "gemeente_code": "GM0281",
+   "neerslag_jul_mm": 255.55
+ },
+ {
+   "gemeente_code": "GM0575",
+   "neerslag_jul_mm": 255.63
+ },
+ {
+   "gemeente_code": "GM0085",
+   "neerslag_jul_mm": 266.55
+ },
+ {
+   "gemeente_code": "GM0119",
+   "neerslag_jul_mm": 271.57
+ },
+ {
+   "gemeente_code": "GM0417",
+   "neerslag_jul_mm": 284.81
+ },
+ {
+   "gemeente_code": "GM0907",
+   "neerslag_jul_mm": 234.88
+ },
+ {
+   "gemeente_code": "GM0489",
+   "neerslag_jul_mm": 287.27
+ },
+ {
+   "gemeente_code": "GM0340",
+   "neerslag_jul_mm": 252.62
+ },
+ {
+   "gemeente_code": "GM0209",
+   "neerslag_jul_mm": 233.96
+ },
+ {
+   "gemeente_code": "GM0171",
+   "neerslag_jul_mm": 250.64
+ },
+ {
+   "gemeente_code": "GM1900",
+   "neerslag_jul_mm": 241.93
+ },
+ {
+   "gemeente_code": "GM0202",
+   "neerslag_jul_mm": 250.32
+ },
+ {
+   "gemeente_code": "GM1731",
+   "neerslag_jul_mm": 289.25
+ },
+ {
+   "gemeente_code": "GM0439",
+   "neerslag_jul_mm": 234.8
+ },
+ {
+   "gemeente_code": "GM0376",
+   "neerslag_jul_mm": 276.15
+ },
+ {
+   "gemeente_code": "GM0687",
+   "neerslag_jul_mm": 257.19
+ },
+ {
+   "gemeente_code": "GM1735",
+   "neerslag_jul_mm": 265.93
+ },
+ {
+   "gemeente_code": "GM0090",
+   "neerslag_jul_mm": 266.31
+ },
+ {
+   "gemeente_code": "GM0405",
+   "neerslag_jul_mm": 235.53
+ },
+ {
+   "gemeente_code": "GM0014",
+   "neerslag_jul_mm": 245.76
+ },
+ {
+   "gemeente_code": "GM0269",
+   "neerslag_jul_mm": 286.94
+ },
+ {
+   "gemeente_code": "GM0946",
+   "neerslag_jul_mm": 284.01
+ },
+ {
+   "gemeente_code": "GM0757",
+   "neerslag_jul_mm": 239.01
+ },
+ {
+   "gemeente_code": "GM0994",
+   "neerslag_jul_mm": 255.48
+ },
+ {
+   "gemeente_code": "GM0355",
+   "neerslag_jul_mm": 276.52
+ },
+ {
+   "gemeente_code": "GM0432",
+   "neerslag_jul_mm": 241.62
+ },
+ {
+   "gemeente_code": "GM0547",
+   "neerslag_jul_mm": 252.34
+ },
+ {
+   "gemeente_code": "GM0995",
+   "neerslag_jul_mm": 261.84
+ },
+ {
+   "gemeente_code": "GM0177",
+   "neerslag_jul_mm": 285.79
+ },
+ {
+   "gemeente_code": "GM1959",
+   "neerslag_jul_mm": 278.84
+ },
+ {
+   "gemeente_code": "GM1734",
+   "neerslag_jul_mm": 231.82
+ },
+ {
+   "gemeente_code": "GM0173",
+   "neerslag_jul_mm": 288.12
+ },
+ {
+   "gemeente_code": "GM0797",
+   "neerslag_jul_mm": 257.12
+ },
+ {
+   "gemeente_code": "GM0059",
+   "neerslag_jul_mm": 261.46
+ },
+ {
+   "gemeente_code": "GM1963",
+   "neerslag_jul_mm": 277.6
+ },
+ {
+   "gemeente_code": "GM0214",
+   "neerslag_jul_mm": 267.42
+ },
+ {
+   "gemeente_code": "GM1701",
+   "neerslag_jul_mm": 272.38
+ },
+ {
+   "gemeente_code": "GM0824",
+   "neerslag_jul_mm": 237.69
+ },
+ {
+   "gemeente_code": "GM0392",
+   "neerslag_jul_mm": 249.01
+ },
+ {
+   "gemeente_code": "GM0880",
+   "neerslag_jul_mm": 237.89
+ },
+ {
+   "gemeente_code": "GM0147",
+   "neerslag_jul_mm": 271.5
+ },
+ {
+   "gemeente_code": "GM1581",
+   "neerslag_jul_mm": 280.97
+ },
+ {
+   "gemeente_code": "GM0928",
+   "neerslag_jul_mm": 251.22
+ },
+ {
+   "gemeente_code": "GM0222",
+   "neerslag_jul_mm": 242.5
+ },
+ {
+   "gemeente_code": "GM0118",
+   "neerslag_jul_mm": 288.53
+ },
+ {
+   "gemeente_code": "GM0866",
+   "neerslag_jul_mm": 267.13
+ },
+ {
+   "gemeente_code": "GM0981",
+   "neerslag_jul_mm": 261.61
+ },
+ {
+   "gemeente_code": "GM0050",
+   "neerslag_jul_mm": 272.17
+ },
+ {
+   "gemeente_code": "GM0532",
+   "neerslag_jul_mm": 266.09
+ },
+ {
+   "gemeente_code": "GM0293",
+   "neerslag_jul_mm": 261.04
+ },
+ {
+   "gemeente_code": "GM1949",
+   "neerslag_jul_mm": 232.12
+ },
+ {
+   "gemeente_code": "GM1598",
+   "neerslag_jul_mm": 248.2
+ },
+ {
+   "gemeente_code": "GM0845",
+   "neerslag_jul_mm": 246.83
+ },
+ {
+   "gemeente_code": "GM1954",
+   "neerslag_jul_mm": 251.69
+ },
+ {
+   "gemeente_code": "GM0303",
+   "neerslag_jul_mm": 265.56
+ },
+ {
+   "gemeente_code": "GM0736",
+   "neerslag_jul_mm": 264.35
+ },
+ {
+   "gemeente_code": "GM1719",
+   "neerslag_jul_mm": 270.44
+ },
+ {
+   "gemeente_code": "GM0794",
+   "neerslag_jul_mm": 254.34
+ },
+ {
+   "gemeente_code": "GM1884",
+   "neerslag_jul_mm": 267.27
+ },
+ {
+   "gemeente_code": "GM1700",
+   "neerslag_jul_mm": 287.29
+ },
+ {
+   "gemeente_code": "GM0873",
+   "neerslag_jul_mm": 282.73
+ },
+ {
+   "gemeente_code": "GM0899",
+   "neerslag_jul_mm": 269.7
+ },
+ {
+   "gemeente_code": "GM0809",
+   "neerslag_jul_mm": 263.23
+ },
+ {
+   "gemeente_code": "GM1705",
+   "neerslag_jul_mm": 238.8
+ },
+ {
+   "gemeente_code": "GM0840",
+   "neerslag_jul_mm": 289.08
+ },
+ {
+   "gemeente_code": "GM0505",
+   "neerslag_jul_mm": 287.79
+ },
+ {
+   "gemeente_code": "GM0743",
+   "neerslag_jul_mm": 283.95
+ },
+ {
+   "gemeente_code": "GM0935",
+   "neerslag_jul_mm": 257.84
+ },
+ {
+   "gemeente_code": "GM1982",
+   "neerslag_jul_mm": 243.22
+ },
+ {
+   "gemeente_code": "GM0847",
+   "neerslag_jul_mm": 263.5
+ },
+ {
+   "gemeente_code": "GM0184",
+   "neerslag_jul_mm": 253.26
+ },
+ {
+   "gemeente_code": "GM0784",
+   "neerslag_jul_mm": 263.07
+ },
+ {
+   "gemeente_code": "GM0851",
+   "neerslag_jul_mm": 284.93
+ },
+ {
+   "gemeente_code": "GM0542",
+   "neerslag_jul_mm": 280.16
+ },
+ {
+   "gemeente_code": "GM0512",
+   "neerslag_jul_mm": 289.62
+ },
+ {
+   "gemeente_code": "GM0060",
+   "neerslag_jul_mm": 242.62
+ },
+ {
+   "gemeente_code": "GM0352",
+   "neerslag_jul_mm": 271.89
+ },
+ {
+   "gemeente_code": "GM1696",
+   "neerslag_jul_mm": 256.44
+ },
+ {
+   "gemeente_code": "GM1916",
+   "neerslag_jul_mm": 263.51
+ },
+ {
+   "gemeente_code": "GM0150",
+   "neerslag_jul_mm": 272.9
+ },
+ {
+   "gemeente_code": "GM1992",
+   "neerslag_jul_mm": 252.5
+ },
+ {
+   "gemeente_code": "GM1695",
+   "neerslag_jul_mm": 274.49
+ },
+ {
+   "gemeente_code": "GM0244",
+   "neerslag_jul_mm": 276.64
+ },
+ {
+   "gemeente_code": "GM0297",
+   "neerslag_jul_mm": 262.14
+ },
+ {
+   "gemeente_code": "GM1955",
+   "neerslag_jul_mm": 243.75
+ },
+ {
+   "gemeente_code": "GM0361",
+   "neerslag_jul_mm": 238.29
+ },
+ {
+   "gemeente_code": "GM1894",
+   "neerslag_jul_mm": 271.46
+ },
+ {
+   "gemeente_code": "GM1714",
+   "neerslag_jul_mm": 262.27
+ },
+ {
+   "gemeente_code": "GM1969",
+   "neerslag_jul_mm": 245.91
+ },
+ {
+   "gemeente_code": "GM0637",
+   "neerslag_jul_mm": 250.79
+ },
+ {
+   "gemeente_code": "GM1681",
+   "neerslag_jul_mm": 289.74
+ },
+ {
+   "gemeente_code": "GM0893",
+   "neerslag_jul_mm": 261.01
+ },
+ {
+   "gemeente_code": "GM0613",
+   "neerslag_jul_mm": 272.15
+ },
+ {
+   "gemeente_code": "GM0753",
+   "neerslag_jul_mm": 231.2
+ },
+ {
+   "gemeente_code": "GM0823",
+   "neerslag_jul_mm": 237.43
+ },
+ {
+   "gemeente_code": "GM1961",
+   "neerslag_jul_mm": 284.52
+ },
+ {
+   "gemeente_code": "GM0450",
+   "neerslag_jul_mm": 243.24
+ },
+ {
+   "gemeente_code": "GM0917",
+   "neerslag_jul_mm": 257.32
+ },
+ {
+   "gemeente_code": "GM1773",
+   "neerslag_jul_mm": 289.79
+ },
+ {
+   "gemeente_code": "GM0233",
+   "neerslag_jul_mm": 271.32
+ },
+ {
+   "gemeente_code": "GM1960",
+   "neerslag_jul_mm": 262.68
+ },
+ {
+   "gemeente_code": "GM0518",
+   "neerslag_jul_mm": 259.83
+ },
+ {
+   "gemeente_code": "GM0777",
+   "neerslag_jul_mm": 272.91
+ },
+ {
+   "gemeente_code": "GM0200",
+   "neerslag_jul_mm": 268.35
+ },
+ {
+   "gemeente_code": "GM0180",
+   "neerslag_jul_mm": 280.72
+ },
+ {
+   "gemeente_code": "GM1652",
+   "neerslag_jul_mm": 263.06
+ },
+ {
+   "gemeente_code": "GM0589",
+   "neerslag_jul_mm": 274.27
+ },
+ {
+   "gemeente_code": "GM0867",
+   "neerslag_jul_mm": 266.92
+ },
+ {
+   "gemeente_code": "GM0093",
+   "neerslag_jul_mm": 241.17
+ },
+ {
+   "gemeente_code": "GM0622",
+   "neerslag_jul_mm": 264.67
+ },
+ {
+   "gemeente_code": "GM1740",
+   "neerslag_jul_mm": 250.12
+ },
+ {
+   "gemeente_code": "GM0342",
+   "neerslag_jul_mm": 282.43
+ },
+ {
+   "gemeente_code": "GM0798",
+   "neerslag_jul_mm": 239.38
+ },
+ {
+   "gemeente_code": "GM1859",
+   "neerslag_jul_mm": 269.86
+ },
+ {
+   "gemeente_code": "GM0420",
+   "neerslag_jul_mm": 235.83
+ },
+ {
+   "gemeente_code": "GM1525",
+   "neerslag_jul_mm": 264.25
+ },
+ {
+   "gemeente_code": "GM0277",
+   "neerslag_jul_mm": 265.47
+ },
+ {
+   "gemeente_code": "GM1980",
+   "neerslag_jul_mm": 234.37
+ },
+ {
+   "gemeente_code": "GM0415",
+   "neerslag_jul_mm": 249.25
+ },
+ {
+   "gemeente_code": "GM1979",
+   "neerslag_jul_mm": 247.28
+ },
+ {
+   "gemeente_code": "GM0983",
+   "neerslag_jul_mm": 280.86
+ },
+ {
+   "gemeente_code": "GM0855",
+   "neerslag_jul_mm": 236.47
+ },
+ {
+   "gemeente_code": "GM1690",
+   "neerslag_jul_mm": 281.51
+ },
+ {
+   "gemeente_code": "GM1709",
+   "neerslag_jul_mm": 272.64
+ },
+ {
+   "gemeente_code": "GM1952",
+   "neerslag_jul_mm": 242.82
+ },
+ {
+   "gemeente_code": "GM1655",
+   "neerslag_jul_mm": 281.54
+ },
+ {
+   "gemeente_code": "GM0279",
+   "neerslag_jul_mm": 284.62
+ },
+ {
+   "gemeente_code": "GM1891",
+   "neerslag_jul_mm": 246.84
+ },
+ {
+   "gemeente_code": "GM1509",
+   "neerslag_jul_mm": 235.31
+ },
+ {
+   "gemeente_code": "GM0086",
+   "neerslag_jul_mm": 254.11
+ },
+ {
+   "gemeente_code": "GM0243",
+   "neerslag_jul_mm": 277.27
+ },
+ {
+   "gemeente_code": "GM0984",
+   "neerslag_jul_mm": 261.37
+ },
+ {
+   "gemeente_code": "GM1699",
+   "neerslag_jul_mm": 252.49
+ },
+ {
+   "gemeente_code": "GM0820",
+   "neerslag_jul_mm": 263.68
+ },
+ {
+   "gemeente_code": "GM0852",
+   "neerslag_jul_mm": 239.07
+ },
+ {
+   "gemeente_code": "GM0858",
+   "neerslag_jul_mm": 265.31
+ },
+ {
+   "gemeente_code": "GM1970",
+   "neerslag_jul_mm": 238.49
+ },
+ {
+   "gemeente_code": "GM1669",
+   "neerslag_jul_mm": 279.9
+ },
+ {
+   "gemeente_code": "GM0957",
+   "neerslag_jul_mm": 278.55
+ },
+ {
+   "gemeente_code": "GM0748",
+   "neerslag_jul_mm": 284.07
+ },
+ {
+   "gemeente_code": "GM0302",
+   "neerslag_jul_mm": 288.27
+ },
+ {
+   "gemeente_code": "GM0606",
+   "neerslag_jul_mm": 267.77
+ },
+ {
+   "gemeente_code": "GM1742",
+   "neerslag_jul_mm": 274.85
+ },
+ {
+   "gemeente_code": "GM1708",
+   "neerslag_jul_mm": 283.3
+ },
+ {
+   "gemeente_code": "GM0779",
+   "neerslag_jul_mm": 275.47
+ },
+ {
+   "gemeente_code": "GM1723",
+   "neerslag_jul_mm": 249.16
+ },
+ {
+   "gemeente_code": "GM0826",
+   "neerslag_jul_mm": 250.34
+ },
+ {
+   "gemeente_code": "GM0513",
+   "neerslag_jul_mm": 284.94
+ },
+ {
+   "gemeente_code": "GM0971",
+   "neerslag_jul_mm": 283.5
+ },
+ {
+   "gemeente_code": "GM0141",
+   "neerslag_jul_mm": 273.44
+ },
+ {
+   "gemeente_code": "GM0321",
+   "neerslag_jul_mm": 270.89
+ },
+ {
+   "gemeente_code": "GM0678",
+   "neerslag_jul_mm": 279.15
+ },
+ {
+   "gemeente_code": "GM0785",
+   "neerslag_jul_mm": 230.82
+ },
+ {
+   "gemeente_code": "GM0373",
+   "neerslag_jul_mm": 238.59
+ },
+ {
+   "gemeente_code": "GM0865",
+   "neerslag_jul_mm": 245.28
+ },
+ {
+   "gemeente_code": "GM0938",
+   "neerslag_jul_mm": 277.54
+ },
+ {
+   "gemeente_code": "GM0654",
+   "neerslag_jul_mm": 280.92
+ },
+ {
+   "gemeente_code": "GM0203",
+   "neerslag_jul_mm": 274.35
+ },
+ {
+   "gemeente_code": "GM0556",
+   "neerslag_jul_mm": 251.85
+ },
+ {
+   "gemeente_code": "GM0402",
+   "neerslag_jul_mm": 278.95
+ },
+ {
+   "gemeente_code": "GM0339",
+   "neerslag_jul_mm": 275.98
+ },
+ {
+   "gemeente_code": "GM0252",
+   "neerslag_jul_mm": 239.26
+ },
+ {
+   "gemeente_code": "GM1640",
+   "neerslag_jul_mm": 283.62
+ },
+ {
+   "gemeente_code": "GM0451",
+   "neerslag_jul_mm": 268.61
+ },
+ {
+   "gemeente_code": "GM0399",
+   "neerslag_jul_mm": 248.25
+ },
+ {
+   "gemeente_code": "GM0448",
+   "neerslag_jul_mm": 248.26
+ },
+ {
+   "gemeente_code": "GM0197",
+   "neerslag_jul_mm": 238.21
+ },
+ {
+   "gemeente_code": "GM0718",
+   "neerslag_jul_mm": 261.23
+ },
+ {
+   "gemeente_code": "GM0274",
+   "neerslag_jul_mm": 258.61
+ },
+ {
+   "gemeente_code": "GM0599",
+   "neerslag_jul_mm": 257.77
+ },
+ {
+   "gemeente_code": "GM0353",
+   "neerslag_jul_mm": 272.88
+ },
+ {
+   "gemeente_code": "GM0796",
+   "neerslag_jul_mm": 246.53
+ },
+ {
+   "gemeente_code": "GM1904",
+   "neerslag_jul_mm": 262.58
+ },
+ {
+   "gemeente_code": "GM0294",
+   "neerslag_jul_mm": 246.85
+ },
+ {
+   "gemeente_code": "GM0406",
+   "neerslag_jul_mm": 287.49
+ },
+ {
+   "gemeente_code": "GM0226",
+   "neerslag_jul_mm": 255.64
+ },
+ {
+   "gemeente_code": "GM0394",
+   "neerslag_jul_mm": 231.33
+ },
+ {
+   "gemeente_code": "GM0312",
+   "neerslag_jul_mm": 279.6
+ },
+ {
+   "gemeente_code": "GM1892",
+   "neerslag_jul_mm": 268.43
+ },
+ {
+   "gemeente_code": "GM0590",
+   "neerslag_jul_mm": 273.32
+ },
+ {
+   "gemeente_code": "GM0385",
+   "neerslag_jul_mm": 244.14
+ },
+ {
+   "gemeente_code": "GM0629",
+   "neerslag_jul_mm": 257.85
+ },
+ {
+   "gemeente_code": "GM0114",
+   "neerslag_jul_mm": 271.31
+ },
+ {
+   "gemeente_code": "GM0098",
+   "neerslag_jul_mm": 279.06
+ },
+ {
+   "gemeente_code": "GM1771",
+   "neerslag_jul_mm": 267.22
+ },
+ {
+   "gemeente_code": "GM0400",
+   "neerslag_jul_mm": 236.45
+ },
+ {
+   "gemeente_code": "GM0861",
+   "neerslag_jul_mm": 262.25
+ },
+ {
+   "gemeente_code": "GM0664",
+   "neerslag_jul_mm": 284.73
+ },
+ {
+   "gemeente_code": "GM0384",
+   "neerslag_jul_mm": 268.35
+ },
+ {
+   "gemeente_code": "GM0965",
+   "neerslag_jul_mm": 258.45
+ },
+ {
+   "gemeente_code": "GM0396",
+   "neerslag_jul_mm": 243.84
+ },
+ {
+   "gemeente_code": "GM0482",
+   "neerslag_jul_mm": 278.44
+ },
+ {
+   "gemeente_code": "GM0164",
+   "neerslag_jul_mm": 269.45
+ },
+ {
+   "gemeente_code": "GM0163",
+   "neerslag_jul_mm": 282.03
+ },
+ {
+   "gemeente_code": "GM0638",
+   "neerslag_jul_mm": 268.34
+ },
+ {
+   "gemeente_code": "GM0677",
+   "neerslag_jul_mm": 274.31
+ },
+ {
+   "gemeente_code": "GM0503",
+   "neerslag_jul_mm": 260.08
+ },
+ {
+   "gemeente_code": "GM0603",
+   "neerslag_jul_mm": 250.85
+ },
+ {
+   "gemeente_code": "GM0088",
+   "neerslag_jul_mm": 246.32
+ },
+ {
+   "gemeente_code": "GM0755",
+   "neerslag_jul_mm": 246.07
+ },
+ {
+   "gemeente_code": "GM0397",
+   "neerslag_jul_mm": 254.34
+ },
+ {
+   "gemeente_code": "GM0362",
+   "neerslag_jul_mm": 265.14
+ },
+ {
+   "gemeente_code": "GM0047",
+   "neerslag_jul_mm": 266.41
+ },
+ {
+   "gemeente_code": "GM1729",
+   "neerslag_jul_mm": 269.18
+ },
+ {
+   "gemeente_code": "GM0327",
+   "neerslag_jul_mm": 279.78
+ },
+ {
+   "gemeente_code": "GM0553",
+   "neerslag_jul_mm": 253.54
+ },
+ {
+   "gemeente_code": "GM0080",
+   "neerslag_jul_mm": 232.63
+ },
+ {
+   "gemeente_code": "GM0772",
+   "neerslag_jul_mm": 263.86
+ }
+],
+    "_links": {
+      "start": "/api/action/datastore_search?resource_id=3d639361-b157-42d7-b135-41af5a22a8e3&fields=Region_code%2CRegion_name%2CIncidence_population_10000&limit=32000",
+      "next": "/api/action/datastore_search?resource_id=3d639361-b157-42d7-b135-41af5a22a8e3&fields=Region_code%2CRegion_name%2CIncidence_population_10000&limit=32000&offset=32000"
+    },
+    "total": 342,
+    "total_was_estimated": false
+  }
+}

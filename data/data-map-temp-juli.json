@@ -1,0 +1,1392 @@
+{
+  "help": "https://data.rivm.nl/opendata/api/3/action/help_show?name=datastore_search",
+  "success": true,
+  "result": {
+    "fields": [
+      { "id": "Region_code", "type": "text" },
+      { "id": "Region_name", "type": "text" },
+      { "id": "Incidence_population_10000", "type": "numeric" }
+    ],
+    "include_total": true,
+    "limit": 32000,
+    "records_format": "objects",
+    "resource_id": "3d639361-b157-42d7-b135-41af5a22a8e3",
+    "total_estimation_threshold": null,
+    "records": [
+ {
+   "gemeente_code": "GM0263",
+   "temp_jul_C": 24.76
+ },
+ {
+   "gemeente_code": "GM0441",
+   "temp_jul_C": 26.72
+ },
+ {
+   "gemeente_code": "GM1903",
+   "temp_jul_C": 23.26
+ },
+ {
+   "gemeente_code": "GM0193",
+   "temp_jul_C": 25.33
+ },
+ {
+   "gemeente_code": "GM1711",
+   "temp_jul_C": 23.33
+ },
+ {
+   "gemeente_code": "GM1621",
+   "temp_jul_C": 26.91
+ },
+ {
+   "gemeente_code": "GM1659",
+   "temp_jul_C": 23.13
+ },
+ {
+   "gemeente_code": "GM0766",
+   "temp_jul_C": 23.15
+ },
+ {
+   "gemeente_code": "GM0668",
+   "temp_jul_C": 24.28
+ },
+ {
+   "gemeente_code": "GM0848",
+   "temp_jul_C": 23.01
+ },
+ {
+   "gemeente_code": "GM0484",
+   "temp_jul_C": 25.93
+ },
+ {
+   "gemeente_code": "GM1978",
+   "temp_jul_C": 25.41
+ },
+ {
+   "gemeente_code": "GM0626",
+   "temp_jul_C": 26.61
+ },
+ {
+   "gemeente_code": "GM1876",
+   "temp_jul_C": 24.66
+ },
+ {
+   "gemeente_code": "GM0106",
+   "temp_jul_C": 25.91
+ },
+ {
+   "gemeente_code": "GM1991",
+   "temp_jul_C": 23.15
+ },
+ {
+   "gemeente_code": "GM0537",
+   "temp_jul_C": 26.87
+ },
+ {
+   "gemeente_code": "GM0383",
+   "temp_jul_C": 26.58
+ },
+ {
+   "gemeente_code": "GM0479",
+   "temp_jul_C": 25.09
+ },
+ {
+   "gemeente_code": "GM0109",
+   "temp_jul_C": 25.27
+ },
+ {
+   "gemeente_code": "GM1895",
+   "temp_jul_C": 26.08
+ },
+ {
+   "gemeente_code": "GM0301",
+   "temp_jul_C": 24.57
+ },
+ {
+   "gemeente_code": "GM1966",
+   "temp_jul_C": 26.38
+ },
+ {
+   "gemeente_code": "GM0189",
+   "temp_jul_C": 24.29
+ },
+ {
+   "gemeente_code": "GM0275",
+   "temp_jul_C": 24.57
+ },
+ {
+   "gemeente_code": "GM0158",
+   "temp_jul_C": 24.84
+ },
+ {
+   "gemeente_code": "GM1586",
+   "temp_jul_C": 24.04
+ },
+ {
+   "gemeente_code": "GM0345",
+   "temp_jul_C": 24.23
+ },
+ {
+   "gemeente_code": "GM0546",
+   "temp_jul_C": 26.98
+ },
+ {
+   "gemeente_code": "GM1658",
+   "temp_jul_C": 23.06
+ },
+ {
+   "gemeente_code": "GM1774",
+   "temp_jul_C": 24.71
+ },
+ {
+   "gemeente_code": "GM0703",
+   "temp_jul_C": 26.59
+ },
+ {
+   "gemeente_code": "GM0758",
+   "temp_jul_C": 24.99
+ },
+ {
+   "gemeente_code": "GM1721",
+   "temp_jul_C": 23.4
+ },
+ {
+   "gemeente_code": "GM0375",
+   "temp_jul_C": 26.48
+ },
+ {
+   "gemeente_code": "GM0296",
+   "temp_jul_C": 24.1
+ },
+ {
+   "gemeente_code": "GM1948",
+   "temp_jul_C": 23.83
+ },
+ {
+   "gemeente_code": "GM1783",
+   "temp_jul_C": 26.73
+ },
+ {
+   "gemeente_code": "GM0160",
+   "temp_jul_C": 25.84
+ },
+ {
+   "gemeente_code": "GM0289",
+   "temp_jul_C": 24.14
+ },
+ {
+   "gemeente_code": "GM1940",
+   "temp_jul_C": 26.32
+ },
+ {
+   "gemeente_code": "GM1883",
+   "temp_jul_C": 23.26
+ },
+ {
+   "gemeente_code": "GM0299",
+   "temp_jul_C": 24.54
+ },
+ {
+   "gemeente_code": "GM0351",
+   "temp_jul_C": 24.5
+ },
+ {
+   "gemeente_code": "GM1676",
+   "temp_jul_C": 26.88
+ },
+ {
+   "gemeente_code": "GM0765",
+   "temp_jul_C": 26.69
+ },
+ {
+   "gemeente_code": "GM0377",
+   "temp_jul_C": 26.68
+ },
+ {
+   "gemeente_code": "GM0356",
+   "temp_jul_C": 24.07
+ },
+ {
+   "gemeente_code": "GM0889",
+   "temp_jul_C": 23.15
+ },
+ {
+   "gemeente_code": "GM1674",
+   "temp_jul_C": 26.76
+ },
+ {
+   "gemeente_code": "GM0273",
+   "temp_jul_C": 24.16
+ },
+ {
+   "gemeente_code": "GM0183",
+   "temp_jul_C": 24.82
+ },
+ {
+   "gemeente_code": "GM0216",
+   "temp_jul_C": 24.87
+ },
+ {
+   "gemeente_code": "GM0072",
+   "temp_jul_C": 26.85
+ },
+ {
+   "gemeente_code": "GM0579",
+   "temp_jul_C": 26.52
+ },
+ {
+   "gemeente_code": "GM0770",
+   "temp_jul_C": 23.74
+ },
+ {
+   "gemeente_code": "GM0453",
+   "temp_jul_C": 26.11
+ },
+ {
+   "gemeente_code": "GM0498",
+   "temp_jul_C": 26.7
+ },
+ {
+   "gemeente_code": "GM0074",
+   "temp_jul_C": 26.05
+ },
+ {
+   "gemeente_code": "GM0431",
+   "temp_jul_C": 25.41
+ },
+ {
+   "gemeente_code": "GM1730",
+   "temp_jul_C": 26.98
+ },
+ {
+   "gemeente_code": "GM0228",
+   "temp_jul_C": 24.98
+ },
+ {
+   "gemeente_code": "GM0285",
+   "temp_jul_C": 24.9
+ },
+ {
+   "gemeente_code": "GM0175",
+   "temp_jul_C": 25.55
+ },
+ {
+   "gemeente_code": "GM0096",
+   "temp_jul_C": 26.31
+ },
+ {
+   "gemeente_code": "GM1942",
+   "temp_jul_C": 25.45
+ },
+ {
+   "gemeente_code": "GM0166",
+   "temp_jul_C": 25.46
+ },
+ {
+   "gemeente_code": "GM0225",
+   "temp_jul_C": 24.97
+ },
+ {
+   "gemeente_code": "GM0262",
+   "temp_jul_C": 24.66
+ },
+ {
+   "gemeente_code": "GM0313",
+   "temp_jul_C": 24.08
+ },
+ {
+   "gemeente_code": "GM0988",
+   "temp_jul_C": 23.93
+ },
+ {
+   "gemeente_code": "GM0597",
+   "temp_jul_C": 25.86
+ },
+ {
+   "gemeente_code": "GM0642",
+   "temp_jul_C": 25.45
+ },
+ {
+   "gemeente_code": "GM1945",
+   "temp_jul_C": 24.13
+ },
+ {
+   "gemeente_code": "GM0230",
+   "temp_jul_C": 24.13
+ },
+ {
+   "gemeente_code": "GM0213",
+   "temp_jul_C": 24.51
+ },
+ {
+   "gemeente_code": "GM1507",
+   "temp_jul_C": 23.51
+ },
+ {
+   "gemeente_code": "GM1667",
+   "temp_jul_C": 23.43
+ },
+ {
+   "gemeente_code": "GM1724",
+   "temp_jul_C": 23.68
+ },
+ {
+   "gemeente_code": "GM0034",
+   "temp_jul_C": 25.86
+ },
+ {
+   "gemeente_code": "GM0307",
+   "temp_jul_C": 24.38
+ },
+ {
+   "gemeente_code": "GM0828",
+   "temp_jul_C": 24.74
+ },
+ {
+   "gemeente_code": "GM1842",
+   "temp_jul_C": 26.82
+ },
+ {
+   "gemeente_code": "GM1931",
+   "temp_jul_C": 25.92
+ },
+ {
+   "gemeente_code": "GM0717",
+   "temp_jul_C": 26.9
+ },
+ {
+   "gemeente_code": "GM1680",
+   "temp_jul_C": 25.77
+ },
+ {
+   "gemeente_code": "GM0437",
+   "temp_jul_C": 25.79
+ },
+ {
+   "gemeente_code": "GM1896",
+   "temp_jul_C": 25.27
+ },
+ {
+   "gemeente_code": "GM0221",
+   "temp_jul_C": 24.28
+ },
+ {
+   "gemeente_code": "GM0037",
+   "temp_jul_C": 25.23
+ },
+ {
+   "gemeente_code": "GM0523",
+   "temp_jul_C": 25.39
+ },
+ {
+   "gemeente_code": "GM0762",
+   "temp_jul_C": 23.88
+ },
+ {
+   "gemeente_code": "GM0888",
+   "temp_jul_C": 23.78
+ },
+ {
+   "gemeente_code": "GM0715",
+   "temp_jul_C": 26.53
+ },
+ {
+   "gemeente_code": "GM0502",
+   "temp_jul_C": 25.48
+ },
+ {
+   "gemeente_code": "GM1950",
+   "temp_jul_C": 26.56
+ },
+ {
+   "gemeente_code": "GM0737",
+   "temp_jul_C": 26.86
+ },
+ {
+   "gemeente_code": "GM0363",
+   "temp_jul_C": 25.21
+ },
+ {
+   "gemeente_code": "GM1926",
+   "temp_jul_C": 26.33
+ },
+ {
+   "gemeente_code": "GM0268",
+   "temp_jul_C": 24.93
+ },
+ {
+   "gemeente_code": "GM0331",
+   "temp_jul_C": 24.79
+ },
+ {
+   "gemeente_code": "GM0610",
+   "temp_jul_C": 25.61
+ },
+ {
+   "gemeente_code": "GM0986",
+   "temp_jul_C": 23.65
+ },
+ {
+   "gemeente_code": "GM1924",
+   "temp_jul_C": 26.7
+ },
+ {
+   "gemeente_code": "GM0534",
+   "temp_jul_C": 26.21
+ },
+ {
+   "gemeente_code": "GM0632",
+   "temp_jul_C": 25.7
+ },
+ {
+   "gemeente_code": "GM0944",
+   "temp_jul_C": 24.39
+ },
+ {
+   "gemeente_code": "GM1706",
+   "temp_jul_C": 23.83
+ },
+ {
+   "gemeente_code": "GM0232",
+   "temp_jul_C": 24.63
+ },
+ {
+   "gemeente_code": "GM0335",
+   "temp_jul_C": 25.05
+ },
+ {
+   "gemeente_code": "GM0473",
+   "temp_jul_C": 26.08
+ },
+ {
+   "gemeente_code": "GM0879",
+   "temp_jul_C": 24.45
+ },
+ {
+   "gemeente_code": "GM0344",
+   "temp_jul_C": 24.35
+ },
+ {
+   "gemeente_code": "GM0388",
+   "temp_jul_C": 26.32
+ },
+ {
+   "gemeente_code": "GM0310",
+   "temp_jul_C": 24.97
+ },
+ {
+   "gemeente_code": "GM0531",
+   "temp_jul_C": 25.42
+ },
+ {
+   "gemeente_code": "GM0153",
+   "temp_jul_C": 24.38
+ },
+ {
+   "gemeente_code": "GM0716",
+   "temp_jul_C": 26.61
+ },
+ {
+   "gemeente_code": "GM0168",
+   "temp_jul_C": 24.56
+ },
+ {
+   "gemeente_code": "GM0246",
+   "temp_jul_C": 24.29
+ },
+ {
+   "gemeente_code": "GM1641",
+   "temp_jul_C": 23.71
+ },
+ {
+   "gemeente_code": "GM1911",
+   "temp_jul_C": 26.57
+ },
+ {
+   "gemeente_code": "GM0317",
+   "temp_jul_C": 25.62
+ },
+ {
+   "gemeente_code": "GM0627",
+   "temp_jul_C": 25.32
+ },
+ {
+   "gemeente_code": "GM0267",
+   "temp_jul_C": 24.67
+ },
+ {
+   "gemeente_code": "GM0744",
+   "temp_jul_C": 23.86
+ },
+ {
+   "gemeente_code": "GM0358",
+   "temp_jul_C": 25.06
+ },
+ {
+   "gemeente_code": "GM0308",
+   "temp_jul_C": 24.64
+ },
+ {
+   "gemeente_code": "GM1930",
+   "temp_jul_C": 26.36
+ },
+ {
+   "gemeente_code": "GM1901",
+   "temp_jul_C": 25.19
+ },
+ {
+   "gemeente_code": "GM0569",
+   "temp_jul_C": 25.98
+ },
+ {
+   "gemeente_code": "GM0148",
+   "temp_jul_C": 25.38
+ },
+ {
+   "gemeente_code": "GM1728",
+   "temp_jul_C": 23.2
+ },
+ {
+   "gemeente_code": "GM0882",
+   "temp_jul_C": 23.7
+ },
+ {
+   "gemeente_code": "GM0281",
+   "temp_jul_C": 24.1
+ },
+ {
+   "gemeente_code": "GM0575",
+   "temp_jul_C": 26.85
+ },
+ {
+   "gemeente_code": "GM0085",
+   "temp_jul_C": 25.22
+ },
+ {
+   "gemeente_code": "GM0119",
+   "temp_jul_C": 25.3
+ },
+ {
+   "gemeente_code": "GM0417",
+   "temp_jul_C": 24.76
+ },
+ {
+   "gemeente_code": "GM0907",
+   "temp_jul_C": 23.84
+ },
+ {
+   "gemeente_code": "GM0489",
+   "temp_jul_C": 25.3
+ },
+ {
+   "gemeente_code": "GM0340",
+   "temp_jul_C": 24.62
+ },
+ {
+   "gemeente_code": "GM0209",
+   "temp_jul_C": 24.03
+ },
+ {
+   "gemeente_code": "GM0171",
+   "temp_jul_C": 26.83
+ },
+ {
+   "gemeente_code": "GM1900",
+   "temp_jul_C": 26.81
+ },
+ {
+   "gemeente_code": "GM0202",
+   "temp_jul_C": 24.2
+ },
+ {
+   "gemeente_code": "GM1731",
+   "temp_jul_C": 25.94
+ },
+ {
+   "gemeente_code": "GM0439",
+   "temp_jul_C": 25.63
+ },
+ {
+   "gemeente_code": "GM0376",
+   "temp_jul_C": 25.36
+ },
+ {
+   "gemeente_code": "GM0687",
+   "temp_jul_C": 26.53
+ },
+ {
+   "gemeente_code": "GM1735",
+   "temp_jul_C": 24.96
+ },
+ {
+   "gemeente_code": "GM0090",
+   "temp_jul_C": 26.02
+ },
+ {
+   "gemeente_code": "GM0405",
+   "temp_jul_C": 25.46
+ },
+ {
+   "gemeente_code": "GM0014",
+   "temp_jul_C": 26.55
+ },
+ {
+   "gemeente_code": "GM0269",
+   "temp_jul_C": 25.09
+ },
+ {
+   "gemeente_code": "GM0946",
+   "temp_jul_C": 23.84
+ },
+ {
+   "gemeente_code": "GM0757",
+   "temp_jul_C": 23.37
+ },
+ {
+   "gemeente_code": "GM0994",
+   "temp_jul_C": 23.29
+ },
+ {
+   "gemeente_code": "GM0355",
+   "temp_jul_C": 24.71
+ },
+ {
+   "gemeente_code": "GM0432",
+   "temp_jul_C": 26.69
+ },
+ {
+   "gemeente_code": "GM0547",
+   "temp_jul_C": 25.17
+ },
+ {
+   "gemeente_code": "GM0995",
+   "temp_jul_C": 26.26
+ },
+ {
+   "gemeente_code": "GM0177",
+   "temp_jul_C": 24.87
+ },
+ {
+   "gemeente_code": "GM1959",
+   "temp_jul_C": 24.18
+ },
+ {
+   "gemeente_code": "GM1734",
+   "temp_jul_C": 24.88
+ },
+ {
+   "gemeente_code": "GM0173",
+   "temp_jul_C": 24.71
+ },
+ {
+   "gemeente_code": "GM0797",
+   "temp_jul_C": 23.61
+ },
+ {
+   "gemeente_code": "GM0059",
+   "temp_jul_C": 26.31
+ },
+ {
+   "gemeente_code": "GM1963",
+   "temp_jul_C": 26.73
+ },
+ {
+   "gemeente_code": "GM0214",
+   "temp_jul_C": 24.93
+ },
+ {
+   "gemeente_code": "GM1701",
+   "temp_jul_C": 25.75
+ },
+ {
+   "gemeente_code": "GM0824",
+   "temp_jul_C": 23.96
+ },
+ {
+   "gemeente_code": "GM0392",
+   "temp_jul_C": 26.29
+ },
+ {
+   "gemeente_code": "GM0880",
+   "temp_jul_C": 25.91
+ },
+ {
+   "gemeente_code": "GM0147",
+   "temp_jul_C": 24.43
+ },
+ {
+   "gemeente_code": "GM1581",
+   "temp_jul_C": 24.12
+ },
+ {
+   "gemeente_code": "GM0928",
+   "temp_jul_C": 23.19
+ },
+ {
+   "gemeente_code": "GM0222",
+   "temp_jul_C": 24.63
+ },
+ {
+   "gemeente_code": "GM0118",
+   "temp_jul_C": 25.34
+ },
+ {
+   "gemeente_code": "GM0866",
+   "temp_jul_C": 23.06
+ },
+ {
+   "gemeente_code": "GM0981",
+   "temp_jul_C": 23.87
+ },
+ {
+   "gemeente_code": "GM0050",
+   "temp_jul_C": 25.89
+ },
+ {
+   "gemeente_code": "GM0532",
+   "temp_jul_C": 26.91
+ },
+ {
+   "gemeente_code": "GM0293",
+   "temp_jul_C": 24.99
+ },
+ {
+   "gemeente_code": "GM1949",
+   "temp_jul_C": 26.54
+ },
+ {
+   "gemeente_code": "GM1598",
+   "temp_jul_C": 25.69
+ },
+ {
+   "gemeente_code": "GM0845",
+   "temp_jul_C": 23.35
+ },
+ {
+   "gemeente_code": "GM1954",
+   "temp_jul_C": 23.91
+ },
+ {
+   "gemeente_code": "GM0303",
+   "temp_jul_C": 26.78
+ },
+ {
+   "gemeente_code": "GM0736",
+   "temp_jul_C": 25.29
+ },
+ {
+   "gemeente_code": "GM1719",
+   "temp_jul_C": 24.43
+ },
+ {
+   "gemeente_code": "GM0794",
+   "temp_jul_C": 23.71
+ },
+ {
+   "gemeente_code": "GM1884",
+   "temp_jul_C": 25.19
+ },
+ {
+   "gemeente_code": "GM1700",
+   "temp_jul_C": 25.14
+ },
+ {
+   "gemeente_code": "GM0873",
+   "temp_jul_C": 26.42
+ },
+ {
+   "gemeente_code": "GM0899",
+   "temp_jul_C": 23.26
+ },
+ {
+   "gemeente_code": "GM0809",
+   "temp_jul_C": 23.64
+ },
+ {
+   "gemeente_code": "GM1705",
+   "temp_jul_C": 24.87
+ },
+ {
+   "gemeente_code": "GM0840",
+   "temp_jul_C": 26.63
+ },
+ {
+   "gemeente_code": "GM0505",
+   "temp_jul_C": 25.85
+ },
+ {
+   "gemeente_code": "GM0743",
+   "temp_jul_C": 23.01
+ },
+ {
+   "gemeente_code": "GM0935",
+   "temp_jul_C": 23.02
+ },
+ {
+   "gemeente_code": "GM1982",
+   "temp_jul_C": 23.31
+ },
+ {
+   "gemeente_code": "GM0847",
+   "temp_jul_C": 23.27
+ },
+ {
+   "gemeente_code": "GM0184",
+   "temp_jul_C": 26.2
+ },
+ {
+   "gemeente_code": "GM0784",
+   "temp_jul_C": 23.92
+ },
+ {
+   "gemeente_code": "GM0851",
+   "temp_jul_C": 26.4
+ },
+ {
+   "gemeente_code": "GM0542",
+   "temp_jul_C": 25.59
+ },
+ {
+   "gemeente_code": "GM0512",
+   "temp_jul_C": 24.56
+ },
+ {
+   "gemeente_code": "GM0060",
+   "temp_jul_C": 26.06
+ },
+ {
+   "gemeente_code": "GM0352",
+   "temp_jul_C": 24.8
+ },
+ {
+   "gemeente_code": "GM1696",
+   "temp_jul_C": 24.84
+ },
+ {
+   "gemeente_code": "GM1916",
+   "temp_jul_C": 26.34
+ },
+ {
+   "gemeente_code": "GM0150",
+   "temp_jul_C": 24.46
+ },
+ {
+   "gemeente_code": "GM1992",
+   "temp_jul_C": 26.36
+ },
+ {
+   "gemeente_code": "GM1695",
+   "temp_jul_C": 26.19
+ },
+ {
+   "gemeente_code": "GM0244",
+   "temp_jul_C": 25.57
+ },
+ {
+   "gemeente_code": "GM0297",
+   "temp_jul_C": 24.76
+ },
+ {
+   "gemeente_code": "GM1955",
+   "temp_jul_C": 24.43
+ },
+ {
+   "gemeente_code": "GM0361",
+   "temp_jul_C": 26.16
+ },
+ {
+   "gemeente_code": "GM1894",
+   "temp_jul_C": 23.58
+ },
+ {
+   "gemeente_code": "GM1714",
+   "temp_jul_C": 26.22
+ },
+ {
+   "gemeente_code": "GM1969",
+   "temp_jul_C": 26.12
+ },
+ {
+   "gemeente_code": "GM0637",
+   "temp_jul_C": 26.44
+ },
+ {
+   "gemeente_code": "GM1681",
+   "temp_jul_C": 25.1
+ },
+ {
+   "gemeente_code": "GM0893",
+   "temp_jul_C": 23.16
+ },
+ {
+   "gemeente_code": "GM0613",
+   "temp_jul_C": 26.08
+ },
+ {
+   "gemeente_code": "GM0753",
+   "temp_jul_C": 23.54
+ },
+ {
+   "gemeente_code": "GM0823",
+   "temp_jul_C": 23.26
+ },
+ {
+   "gemeente_code": "GM1961",
+   "temp_jul_C": 24.24
+ },
+ {
+   "gemeente_code": "GM0450",
+   "temp_jul_C": 25.8
+ },
+ {
+   "gemeente_code": "GM0917",
+   "temp_jul_C": 23.06
+ },
+ {
+   "gemeente_code": "GM1773",
+   "temp_jul_C": 24.88
+ },
+ {
+   "gemeente_code": "GM0233",
+   "temp_jul_C": 24.94
+ },
+ {
+   "gemeente_code": "GM1960",
+   "temp_jul_C": 24.06
+ },
+ {
+   "gemeente_code": "GM0518",
+   "temp_jul_C": 26.45
+ },
+ {
+   "gemeente_code": "GM0777",
+   "temp_jul_C": 26.93
+ },
+ {
+   "gemeente_code": "GM0200",
+   "temp_jul_C": 24.18
+ },
+ {
+   "gemeente_code": "GM0180",
+   "temp_jul_C": 25.76
+ },
+ {
+   "gemeente_code": "GM1652",
+   "temp_jul_C": 23.63
+ },
+ {
+   "gemeente_code": "GM0589",
+   "temp_jul_C": 25.72
+ },
+ {
+   "gemeente_code": "GM0867",
+   "temp_jul_C": 23.98
+ },
+ {
+   "gemeente_code": "GM0093",
+   "temp_jul_C": 26.21
+ },
+ {
+   "gemeente_code": "GM0622",
+   "temp_jul_C": 26.35
+ },
+ {
+   "gemeente_code": "GM1740",
+   "temp_jul_C": 24.88
+ },
+ {
+   "gemeente_code": "GM0342",
+   "temp_jul_C": 24.28
+ },
+ {
+   "gemeente_code": "GM0798",
+   "temp_jul_C": 23.39
+ },
+ {
+   "gemeente_code": "GM1859",
+   "temp_jul_C": 24.53
+ },
+ {
+   "gemeente_code": "GM0420",
+   "temp_jul_C": 26.02
+ },
+ {
+   "gemeente_code": "GM1525",
+   "temp_jul_C": 25.47
+ },
+ {
+   "gemeente_code": "GM0277",
+   "temp_jul_C": 24.52
+ },
+ {
+   "gemeente_code": "GM1980",
+   "temp_jul_C": 26.67
+ },
+ {
+   "gemeente_code": "GM0415",
+   "temp_jul_C": 25.57
+ },
+ {
+   "gemeente_code": "GM1979",
+   "temp_jul_C": 26.72
+ },
+ {
+   "gemeente_code": "GM0983",
+   "temp_jul_C": 23.81
+ },
+ {
+   "gemeente_code": "GM0855",
+   "temp_jul_C": 23.02
+ },
+ {
+   "gemeente_code": "GM1690",
+   "temp_jul_C": 25.05
+ },
+ {
+   "gemeente_code": "GM1709",
+   "temp_jul_C": 26.76
+ },
+ {
+   "gemeente_code": "GM1952",
+   "temp_jul_C": 26.34
+ },
+ {
+   "gemeente_code": "GM1655",
+   "temp_jul_C": 26.35
+ },
+ {
+   "gemeente_code": "GM0279",
+   "temp_jul_C": 24.61
+ },
+ {
+   "gemeente_code": "GM1891",
+   "temp_jul_C": 26.72
+ },
+ {
+   "gemeente_code": "GM1509",
+   "temp_jul_C": 24.77
+ },
+ {
+   "gemeente_code": "GM0086",
+   "temp_jul_C": 26.63
+ },
+ {
+   "gemeente_code": "GM0243",
+   "temp_jul_C": 24.23
+ },
+ {
+   "gemeente_code": "GM0984",
+   "temp_jul_C": 23.81
+ },
+ {
+   "gemeente_code": "GM1699",
+   "temp_jul_C": 26.23
+ },
+ {
+   "gemeente_code": "GM0820",
+   "temp_jul_C": 23.87
+ },
+ {
+   "gemeente_code": "GM0852",
+   "temp_jul_C": 25.2
+ },
+ {
+   "gemeente_code": "GM0858",
+   "temp_jul_C": 23.32
+ },
+ {
+   "gemeente_code": "GM1970",
+   "temp_jul_C": 26.45
+ },
+ {
+   "gemeente_code": "GM1669",
+   "temp_jul_C": 23.84
+ },
+ {
+   "gemeente_code": "GM0957",
+   "temp_jul_C": 23.84
+ },
+ {
+   "gemeente_code": "GM0748",
+   "temp_jul_C": 26.6
+ },
+ {
+   "gemeente_code": "GM0302",
+   "temp_jul_C": 24.25
+ },
+ {
+   "gemeente_code": "GM0606",
+   "temp_jul_C": 26.67
+ },
+ {
+   "gemeente_code": "GM1742",
+   "temp_jul_C": 24.52
+ },
+ {
+   "gemeente_code": "GM1708",
+   "temp_jul_C": 25.46
+ },
+ {
+   "gemeente_code": "GM0779",
+   "temp_jul_C": 24.9
+ },
+ {
+   "gemeente_code": "GM1723",
+   "temp_jul_C": 23.93
+ },
+ {
+   "gemeente_code": "GM0826",
+   "temp_jul_C": 23.48
+ },
+ {
+   "gemeente_code": "GM0513",
+   "temp_jul_C": 25.18
+ },
+ {
+   "gemeente_code": "GM0971",
+   "temp_jul_C": 23.42
+ },
+ {
+   "gemeente_code": "GM0141",
+   "temp_jul_C": 24.28
+ },
+ {
+   "gemeente_code": "GM0321",
+   "temp_jul_C": 24.2
+ },
+ {
+   "gemeente_code": "GM0678",
+   "temp_jul_C": 26.27
+ },
+ {
+   "gemeente_code": "GM0785",
+   "temp_jul_C": 23.01
+ },
+ {
+   "gemeente_code": "GM0373",
+   "temp_jul_C": 26.82
+ },
+ {
+   "gemeente_code": "GM0865",
+   "temp_jul_C": 23.3
+ },
+ {
+   "gemeente_code": "GM0938",
+   "temp_jul_C": 23.39
+ },
+ {
+   "gemeente_code": "GM0654",
+   "temp_jul_C": 26.11
+ },
+ {
+   "gemeente_code": "GM0203",
+   "temp_jul_C": 24.73
+ },
+ {
+   "gemeente_code": "GM0556",
+   "temp_jul_C": 26.88
+ },
+ {
+   "gemeente_code": "GM0402",
+   "temp_jul_C": 24.6
+ },
+ {
+   "gemeente_code": "GM0339",
+   "temp_jul_C": 24.47
+ },
+ {
+   "gemeente_code": "GM0252",
+   "temp_jul_C": 24.9
+ },
+ {
+   "gemeente_code": "GM1640",
+   "temp_jul_C": 23.11
+ },
+ {
+   "gemeente_code": "GM0451",
+   "temp_jul_C": 25.05
+ },
+ {
+   "gemeente_code": "GM0399",
+   "temp_jul_C": 26.08
+ },
+ {
+   "gemeente_code": "GM0448",
+   "temp_jul_C": 26.4
+ },
+ {
+   "gemeente_code": "GM0197",
+   "temp_jul_C": 24.44
+ },
+ {
+   "gemeente_code": "GM0718",
+   "temp_jul_C": 26.36
+ },
+ {
+   "gemeente_code": "GM0274",
+   "temp_jul_C": 24.24
+ },
+ {
+   "gemeente_code": "GM0599",
+   "temp_jul_C": 26.52
+ },
+ {
+   "gemeente_code": "GM0353",
+   "temp_jul_C": 24.47
+ },
+ {
+   "gemeente_code": "GM0796",
+   "temp_jul_C": 24.87
+ },
+ {
+   "gemeente_code": "GM1904",
+   "temp_jul_C": 24.78
+ },
+ {
+   "gemeente_code": "GM0294",
+   "temp_jul_C": 24.42
+ },
+ {
+   "gemeente_code": "GM0406",
+   "temp_jul_C": 25.01
+ },
+ {
+   "gemeente_code": "GM0226",
+   "temp_jul_C": 24.01
+ },
+ {
+   "gemeente_code": "GM0394",
+   "temp_jul_C": 26.12
+ },
+ {
+   "gemeente_code": "GM0312",
+   "temp_jul_C": 24.22
+ },
+ {
+   "gemeente_code": "GM1892",
+   "temp_jul_C": 25.07
+ },
+ {
+   "gemeente_code": "GM0590",
+   "temp_jul_C": 25.14
+ },
+ {
+   "gemeente_code": "GM0385",
+   "temp_jul_C": 25.78
+ },
+ {
+   "gemeente_code": "GM0629",
+   "temp_jul_C": 26.1
+ },
+ {
+   "gemeente_code": "GM0114",
+   "temp_jul_C": 25.81
+ },
+ {
+   "gemeente_code": "GM0098",
+   "temp_jul_C": 25.79
+ },
+ {
+   "gemeente_code": "GM1771",
+   "temp_jul_C": 23.28
+ },
+ {
+   "gemeente_code": "GM0400",
+   "temp_jul_C": 26.37
+ },
+ {
+   "gemeente_code": "GM0861",
+   "temp_jul_C": 23.81
+ },
+ {
+   "gemeente_code": "GM0664",
+   "temp_jul_C": 26.51
+ },
+ {
+   "gemeente_code": "GM0384",
+   "temp_jul_C": 25.98
+ },
+ {
+   "gemeente_code": "GM0965",
+   "temp_jul_C": 23.67
+ },
+ {
+   "gemeente_code": "GM0396",
+   "temp_jul_C": 26.75
+ },
+ {
+   "gemeente_code": "GM0482",
+   "temp_jul_C": 25.52
+ },
+ {
+   "gemeente_code": "GM0164",
+   "temp_jul_C": 24.06
+ },
+ {
+   "gemeente_code": "GM0163",
+   "temp_jul_C": 24.49
+ },
+ {
+   "gemeente_code": "GM0638",
+   "temp_jul_C": 25.77
+ },
+ {
+   "gemeente_code": "GM0677",
+   "temp_jul_C": 26.4
+ },
+ {
+   "gemeente_code": "GM0503",
+   "temp_jul_C": 26.95
+ },
+ {
+   "gemeente_code": "GM0603",
+   "temp_jul_C": 26.54
+ },
+ {
+   "gemeente_code": "GM0088",
+   "temp_jul_C": 26.49
+ },
+ {
+   "gemeente_code": "GM0755",
+   "temp_jul_C": 23.2
+ },
+ {
+   "gemeente_code": "GM0397",
+   "temp_jul_C": 26.59
+ },
+ {
+   "gemeente_code": "GM0362",
+   "temp_jul_C": 25.33
+ },
+ {
+   "gemeente_code": "GM0047",
+   "temp_jul_C": 26.67
+ },
+ {
+   "gemeente_code": "GM1729",
+   "temp_jul_C": 23.18
+ },
+ {
+   "gemeente_code": "GM0327",
+   "temp_jul_C": 24.77
+ },
+ {
+   "gemeente_code": "GM0553",
+   "temp_jul_C": 26.24
+ },
+ {
+   "gemeente_code": "GM0080",
+   "temp_jul_C": 26.42
+ },
+ {
+   "gemeente_code": "GM0772",
+   "temp_jul_C": 23.49
+ }
+],
+    "_links": {
+      "start": "/api/action/datastore_search?resource_id=3d639361-b157-42d7-b135-41af5a22a8e3&fields=Region_code%2CRegion_name%2CIncidence_population_10000&limit=32000",
+      "next": "/api/action/datastore_search?resource_id=3d639361-b157-42d7-b135-41af5a22a8e3&fields=Region_code%2CRegion_name%2CIncidence_population_10000&limit=32000&offset=32000"
+    },
+    "total": 342,
+    "total_was_estimated": false
+  }
+}

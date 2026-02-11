@@ -1,0 +1,32 @@
+{
+  "dataSrc": "http://127.0.0.1:3002/data/data-totaal-per-gemeente.json",
+  "type": "map",
+  "dataPath": "Totaal_aantal_per_gemeenteResponse.Totaal_aantal_per_gemeenteOutput.row",
+  "title": {
+    "nl": "Aantal besmettingen"
+  },
+  "subtitle": {
+    "nl": "Per gemeente"
+  },
+  "legendTitle": {
+    "nl": "Aantal per 1.000"
+  },
+  "source": {
+    "nl": ""
+  },
+  "colorScheme": "Oranges",
+  "colorSchemeReverse": false,
+  "mapDataClassesCount": 4,
+  "mapDataClassesMethod": "jenks",
+  "mapDivisionCode": "gm",
+  "mapDivisionKey": "gemeente_code",
+  "mapDivisionYear": "2025",
+  "mapKey": "infected_per_1000_inwoners",
+  "mapOutline": "pv",
+  "dictionary": {
+    "nl": {
+      "gemeente_code": "Code",
+      "infected_per_1000_inwoners": "Meldingen per 10.000 inwoners"
+    }
+  }
+}

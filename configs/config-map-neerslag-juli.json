@@ -1,0 +1,31 @@
+{
+  "dataSrc": "http://127.0.0.1:3002/data/data-map-neerslag-juli.json",
+  "type": "map",
+  "title": {
+    "nl": "Neerslag juli 2025"
+  },
+  "subtitle": {
+    "nl": "Per gemeente"
+  },
+  "legendTitle": {
+    "nl": "Neeerslag mm"
+  },
+  "source": {
+    "nl": ""
+  },
+  "colorScheme": "Blues",
+  "colorSchemeReverse": false,
+  "mapDataClassesCount": 4,
+  "mapDataClassesMethod": "jenks",
+  "mapDivisionCode": "gm",
+  "mapDivisionKey": "gemeente_code",
+  "mapDivisionYear": "2025",
+  "mapKey": "neerslag_jul_mm",
+  "mapOutline": "pv",
+  "dictionary": {
+    "nl": {
+      "gemeente_code": "Code",
+      "neerslag_jul_mm": "Neerslag juli mm"
+    }
+  }
+}

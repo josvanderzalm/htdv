@@ -1,18 +1,24 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="nl">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Outbreak</title>
     <script type="module" src="https://cstm.rivm.nl/vis/ChartsAndMaps/_sites/rivm-smodv-figure/assets/main.js"></script>
+    <style>
+        rivm-smodv-figure {
+            float: left;
+            width: 300px;
+            margin-right: 40px;
+        }
+    </style>
+
 </head>
 <body>
-
-
-    <h1>Kaart</h1>
-    <rivm-smodv-figure config-src="http://127.0.0.1:3000/configs/config-map.json"></rivm-smodv-figure>
-
-
-
+    <rivm-smodv-figure config-src="http://127.0.0.1:3002/configs/config-totaal-per-gemeente-aantal.json"></rivm-smodv-figure>
+    <rivm-smodv-figure config-src="http://127.0.0.1:3002/configs/config-totaal-per-gemeente-ic.json"></rivm-smodv-figure>
+    <rivm-smodv-figure config-src="http://127.0.0.1:3002/configs/config-totaal-per-gemeente-overleden.json"></rivm-smodv-figure>
+    <rivm-smodv-figure config-src="http://127.0.0.1:3002/configs/config-map-neerslag-juli.json"></rivm-smodv-figure>
+    <rivm-smodv-figure config-src="http://127.0.0.1:3002/configs/config-map-temp-juli.json"></rivm-smodv-figure>
 </body>
 </html>
